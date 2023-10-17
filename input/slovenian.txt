@@ -75,3 +75,529 @@ Večina Osončja je še neraziskanega. Ocenjen obseg Sončevega gravitacijskega 
 Novembra 2012 je NASA objavila, da se je sonda Voyager 1 približala območju prehoda v zunanje meje Osončja; njegovi instrumenti so zaznali močno povečanje magnetnega polja. Ker pa hkrati niso zaznali tudi spremembe smeri magnetnega polja, so Nasini znanstveniki to interpretirali tako, da Voyager 1 še ni zapustil Osončja.
 Osončje se nahaja v Rimski cesti. To je spiralna galaksija s prečko s premerom okrog 100.000 svetlobnih let, ki vsebuje približno 200 milijard zvezd. Sonce se nahaja na robu enega od zunanjih krakov Rimske ceste, znanega kot Orionov krak. Od središča galaksije je oddaljeno med 25.000 in 28.000 svetlobnih let ter potuje okrog njega s hitrostjo približno 220 kilometrov na sekundo, tako da en obhod traja 225–250 milijonov let. To dobo imenujemo galaktično leto Osončja.
 Lega Osončja v galaksiji vpliva na evolucijo življenja na Zemlji. Njegova tirnica je skoraj okrogla in tirnice okrog Sonca imajo približno enako hitrost kot jo imajo spiralni kraki. Zato Sonce le redko prečka krake. Ker je v spiralnih krakih veliko večja koncentracija supernov, gravitacijskih nestabilnosti in radiacije, ki lahko motijo Osončje, je to dalo Zemlji na voljo dolgo obdobje stabilnosti za razvoj življenja. Prav tako Osončje leži dovolj daleč stran od galaktičnega centra, v katerem se nahaja množica zvezd. Bližje centra bi lahko gravitacijski vlek bližnjih zvezd vrgel iz tira telesa v Oortovem oblaku in poslal komete v notranje Osončje, kar bi lahko povzročilo trke s potencialno katastrofičnimi posledicami za življenje na Zemlji. Radiacija galaktičnega centra lahko prav tako moti razvoj kompleksnega življenja. Kljub današnji legi Osončja so nekateri znanstveniki postavili hipotezo, da so imele nedavne supernove negativen vpliv na življenje v zadnjih 35.000 letih.
+Nikomur ne sme biti izrečena kazen ali druga kazenska sankcija za dejanje, ki ga zakon ni določil kot kaznivo dejanje, še preden je bilo storjeno, in za katero ni bila z zakonom predpisana kazen.
+Določanje kaznivih dejanj in predpisovanje kazenskih sankcij v zakonu je upravičeno samo, kadar in kolikor varstva človeka in drugih temeljnih vrednot ni mogoče zagotavljati drugače.
+Za storilca kaznivega dejanja se uporablja zakon, ki je veljal ob storitvi kaznivega dejanja.
+Če se po storitvi kaznivega dejanja zakon spremeni (enkrat ali večkrat), se uporablja zakon, ki je milejši za storilca.
+Storilcu kaznivega dejanja se sme izreči kazen samo, če je podana njegova krivda.
+Kazenske sankcije so: kazni, opozorilne sankcije, varnostni ukrepi in vzgojni ukrepi.
+Za kaznivo dejanje je v zakonu vedno določena kazen. Druge sankcije iz prejšnjega odstavka se izrekajo po določbah splošnega dela tega zakonika.
+Ob pogojih, določenih s tem zakonikom, se proti storilcu zaradi storjenega kaznivega dejanja ali izrečene kazenske sankcije uporabita tudi odvzem premoženjske koristi in objava sodbe.
+Določbe splošnega dela tega zakonika veljajo za vse kazenskopravne določbe v zakonih Republike Slovenije.
+Kaznivo dejanje je protipravno dejanje, ki ga zakon zaradi njegove nevarnosti določa kot kaznivo dejanje in hkrati določa njegove znake in kazen zanj.
+Kaznivo dejanje je lahko izvršeno s storitvijo ali z opustitvijo.
+Kaznivo dejanje je lahko izvršeno z opustitvijo samo, če je storilec opustil dejanje, ki bi ga moral storiti.
+Z opustitvijo je lahko izvršeno tudi kaznivo dejanje, ki ga zakon ne določa kot opustitveno kaznivo dejanje, če storilec ne prepreči prepovedane posledice. V takšnem primeru se storilec kaznuje za opustitev samo, če je bil dolžan preprečiti nastanek prepovedane posledice in če je opustitev za nastanek takšne posledice enakega pomena kot storitev.
+Kaznivo dejanje je izvršeno takrat, ko je storilec delal ali bi moral delati, ne glede na to, kdaj je nastala posledica.
+Kaznivo dejanje je izvršeno tako na kraju, kjer je storilec delal ali bi bil moral delati, kakor tudi na kraju, kjer je nastala prepovedana posledica.
+Za poskus kaznivega dejanja se šteje, da je bil izvršen tako na kraju, kjer je storilec delal, kakor tudi na kraju, kjer naj bi po njegovem naklepu nastala ali bi lahko nastala prepovedana posledica.
+Ni kaznivo dejanje tisto dejanje, ki je storjeno v silobranu.
+Silobran je tista obramba, ki je neizogibno potrebna, da storilec odvrne od sebe ali koga drugega istočasen protipraven napad.
+Storilec, ki je prekoračil meje silobrana, se sme kaznovati mileje; če pa je prekoračil silobran zaradi močne razdraženosti ali prestrašenosti, povzročene z napadom, se mu sme kazen tudi odpustiti.
+Ni kaznivo dejanje tisto dejanje, ki je storjeno v skrajni sili.
+Skrajna sila je podana takrat, kadar stori storilec dejanje, ki ima vse zakonske znake kaznivega dejanja zato, da bi od sebe ali koga drugega odvrnil istočasno nezakrivljeno nevarnost, ki je ni bilo mogoče odvrniti drugače, pri tem pa prizadejano zlo ni večje od zla, ki je grozilo.
+Storilec, ki je sam povzročil nevarnost, toda iz malomarnosti, ali je prekoračil meje skrajne sile, se sme mileje kaznovati, če pa je prekoračil meje skrajne sile v posebno olajševalnih okoliščinah, se mu sme kazen tudi odpustiti.
+Skrajne sile ni, če se je bil storilec dolžan izpostaviti nevarnosti.
+Ni kaznivo dejanje tisto dejanje, ki je bilo storjeno pod vplivom sile, ki se ji storilec ni mogel upreti.
+Če je bilo kaznivo dejanje storjeno pod vplivom sile, ki se ji je bilo mogoče upreti, ali pod vplivom grožnje, se uporabi prejšnji člen.
+Ni kaznivo dejanje tisto dejanje, ki ima sicer z zakonom določene znake kaznivega dejanja, je pa majhnega pomena. Dejanje je majhnega pomena, kadar je njegova nevarnost neznatna zaradi narave ali teže dejanja, ali zaradi tega, ker so škodljive posledice neznatne ali jih ni, ali zaradi okoliščin, v katerih je bilo storjeno, in zaradi nizke stopnje storilčeve kazenske odgovornosti ali zaradi njegovih osebnih okoliščin.
+Kazensko odgovoren je storilec, ki je prišteven in kriv.
+Kriv je storilec, ki je storil kaznivo dejanje z naklepom ali iz malomarnosti, pri tem pa se je zavedal ali bi se moral in mogel zavedati, da je njegovo dejanje prepovedano.
+Za kaznivo dejanje, storjeno iz malomarnosti, je storilec odgovoren samo, če zakon tako določa.
+Ni prišteven storilec, ki ob storitvi kaznivega dejanja ni mogel razumeti pomena svojega dejanja ali ni mogel imeti v oblasti svojega ravnanja zaradi trajne ali začasne duševne bolezni, začasnih duševnih motenj, duševne zaostalosti ali zaradi kake druge trajne in hude duševne motenosti (neprištevnost).
+Storilec kaznivega dejanja, čigar zmožnost razumeti pomen svojega dejanja ali zmožnost imeti v oblasti svoje ravnanje je bila bistveno zmanjšana zaradi kakšnega stanja iz prejšnjega odstavka, se sme mileje kaznovati (bistveno zmanjšana prištevnost).
+Kazensko je odgovoren tisti storilec kaznivega dejanja, ki si je z uporabo alkohola, mamil ali kako drugače sam povzročil neprištevnost, če je bila pred tem glede kaznivega dejanja podana njegova krivda, ki jo zakon določa za to dejanje.
+Kaznivo dejanje je storjeno z naklepom, če se je storilec zavedal svojega dejanja in ga je hotel storiti; ali če se je zavedal, da lahko zaradi njegovega ravnanja nastane prepovedana posledica, pa je privolil, da takšna posledica nastane.
+Kaznivo dejanje je storjeno iz malomarnosti, če se je storilec zavedal, da zaradi njegovega ravnanja lahko nastane prepovedana posledica, pa je lahkomiselno mislil, da jo bo lahko preprečil ali da ne bo nastala; ali če se ni zavedel, da lahko nastane prepovedana posledica, pa bi se bil po okoliščinah in po svojih osebnih lastnostih tega moral in mogel zavedati.
+Če je iz kaznivega dejanja nastala hujša posledica, za katero predpisuje zakon hujšo kazen, se sme ta kazen izreči, če je storilec glede na to posledico ravnal malomarno.
+Ni kazensko odgovoren storilec, ki se ob storitvi kaznivega dejanja ni zavedal kakšnega njegovega z zakonom določenega znaka; ali je zmotno mislil, da so podane okoliščine, v katerih bi bilo to dejanje dopustno, če bi bile zares podane.
+Če je bil storilec v zmoti zaradi malomarnosti, je kazensko odgovoren za kaznivo dejanje, storjeno iz malomarnosti, če zakon tudi za takšno dejanje določa kazensko odgovornost.
+Ni kazensko odgovoren storilec kaznivega dejanja, ki iz opravičenih razlogov ni vedel, da je to dejanje prepovedano.
+Če bi se storilec zmoti lahko izognil, se sme kaznovati mileje.
+Kdor je izvršitev naklepnega kaznivega dejanja začel, pa ga ni dokončal, se kaznuje za poskus, če gre za kaznivo dejanje, za katero se sme po zakonu izreči tri leta zapora ali hujša kazen; za poskus drugih kaznivih dejanj pa samo tedaj, če zakon izrecno predpisuje, da je kazniv tudi poskus.
+Storilec se kaznuje za poskus v mejah kazni, predpisane za kaznivo dejanje, lahko pa tudi mileje.
+Storilcu, ki poskuša storiti kaznivo dejanje z neprimernim sredstvom ali proti neprimernemu predmetu, se sme odpustiti kazen.
+Storilcu, ki je poskusil izvršiti kaznivo dejanje, pa je prostovoljno odstopil od njegove izvršitve, se sme odpustiti kazen.
+Če storilec prostovoljno odstopi od izvršitve kaznivega dejanja, se kaznuje za tista dejanja, ki pomenijo kakšno drugo samostojno kaznivo dejanje.
+Če dvoje ali več oseb skupno stori kaznivo dejanje tako, da sodelujejo pri izvršitvi, ali tako, da s kakšnim drugačnim dejanjem odločilno prispevajo k njegovi izvršitvi, se vsaka izmed njih kaznuje s kaznijo, predpisano za to dejanje.
+Kdor drugega naklepoma napelje, da stori kaznivo dejanje, se kaznuje, kakor da bi ga bil sam storil.
+Kdor drugega naklepoma napeljuje k storitvi kaznivega dejanja, za katero se sme po zakonu izreči tri leta zapora ali hujša kazen, se kaznuje kakor za poskus kaznivega dejanja, tudi če dejanje ni bilo niti poskušano.
+Kdor komu naklepoma pomaga pri izvršitvi kaznivega dejanja, se kaznuje, kakor da bi ga bil sam storil, sme pa se kaznovati tudi mileje.
+Kot pomoč pri izvršitvi kaznivega dejanja se šteje zlasti: če da kdo storilcu nasvet ali navodila, kako naj stori kaznivo dejanje, če mu da na razpolago sredstva ali odstrani ovire za izvršitev kaznivega dejanja, kakor tudi če vnaprej obljubi, da bo prikril kaznivo dejanje, storilca, sredstva, s katerimi bo kaznivo dejanje storjeno, sledove kaznivega dejanja ali predmete, pridobljene s kaznivim dejanjem.
+Če ostane kaznivo dejanje pri poskusu, se napeljevalec in pomagač kaznujeta kakor za poskus.
+Sostorilec je kazensko odgovoren v mejah svojega naklepa ali malomarnosti, napeljevalec in pomagač pa v mejah njunega naklepa.
+Sostorilcu, napeljevalcu in pomagaču se sme odpustiti kazen, če je prostovoljno preprečil kaznivo dejanje.
+Osebna razmerja, lastnosti in okoliščine, zaradi katerih zakon izključuje kazensko odgovornost ali dopušča odpustitev, zmanjšanje ali povečanje kazni, se smejo upoštevati samo pri tistem storilcu, sostorilcu, napeljevalcu ali pomagaču, pri katerem so takšna razmerja, lastnosti in okoliščine podane.
+če so bile takrat, ko je bila informacija objavljena, podane stvarne ali pravne ovire za pregon avtorja, ki še vedno trajajo.
+Odgovorni urednik oziroma tisti, ki ga je nadomeščal, se kaznuje v mejah kazni, predpisane za kaznivo dejanje, lahko pa tudi mileje.
+Odgovorni urednik oziroma tisti, ki ga je nadomeščal, se ne kaznuje, če iz opravičenih razlogov ni vedel za kakšno izmed okoliščin, navedenih v prvem odstavku tega člena, ali za objavljeno informacijo, s katero je bilo storjeno kaznivo dejanje.
+za kaznivo dejanje, storjeno po gramofonski plošči, magnetofonskem traku, filmu za javno ali zasebno predvajanje ali po diapozitivu, fotogramu, videosredstvih, avditivnih sredstvih ali po podobnih občilih, ki so namenjena širšemu krogu ljudi – izdelovalec.
+Če je izdajatelj, tiskar ali izdelovalec pravna oseba ali državni organ, se kaznuje tista oseba, ki odgovarja za izdajanje, tiskanje ali izdelovanje.
+Določbi drugega in tretjega odstavka prejšnjega člena veljata tudi za izdajatelja, tiskarja in izdelovalca.
+Določbe o kaznivosti oseb, navedenih v 30. in 31. členu tega zakonika, se uporabljajo le, če te osebe niso kazensko odgovorne po splošnih določbah tega zakonika o kazenski odgovornosti.
+Zakon določa odgovornost pravne osebe za kaznivo dejanje, ki ga je storilec izvršil v imenu, na račun ali v korist pravne osebe.
+Zakon določa kazni, opozorilne sankcije in varnostne ukrepe ter pravne posledice obsodbe za pravne osebe.
+V zakonu se določijo kazniva dejanja, za katera lahko odgovarja pravna oseba.
+Z zakonom se določijo posebne določbe o kazenskem postopku zoper pravno osebo.
+izgon tujca iz države.
+Zapor se sme izreči samo kot glavna kazen.
+Denarna kazen se sme izreči kot glavna in tudi kot stranska kazen.
+Prepoved vožnje motornega vozila in izgon tujca iz države se smeta izreči samo kot stranski kazni ob kazni zapora, denarni kazni ali pogojni obsodbi.
+Poleg glavne kazni se sme izreči ena ali več stranskih kazni.
+Storilcu kaznivega dejanja se izreče kazen, ki je predpisana za storjeno kaznivo dejanje; milejša ali strožja kazen od predpisane se sme izreči le ob pogojih, ki jih določa ta zakonik.
+Za kazniva dejanja, storjena iz koristoljubnosti, se sme izreči denarna kazen kot stranska kazen tudi tedaj, kadar ni predpisana z zakonom, ali kadar je z zakonom predpisano, da bo storilec kaznovan z zaporom ali z denarno kaznijo, sodišče pa izreče kot glavno kazen zapor.
+Zapor ne sme biti krajši od petnajstih dni in ne daljši od petnajstih let.
+Za najhujša naklepna kazniva dejanja se sme alternativno predpisati kazen tridesetih let zapora.
+Pod pogoji iz 46. člena in 2. točke drugega odstavka 47. člena tega zakonika se sme izreči kazen zapora do dvajsetih let.
+Kazen zapora do dveh let se predpiše brez najmanjše mere te kazni.
+Zapor se izreka na cela leta in cele mesece, do šestih mesecev pa tudi na cele dni.
+Denarna kazen se izreka v dnevnih zneskih, če to ni mogoče, pa tudi v določenem znesku. Če se denarna kazen izreče v dnevnih zneskih, lahko znaša najmanj pet, največ pa tristošestdeset dnevnih zneskov, za kazniva dejanja, storjena iz koristoljubnosti pa največ tisočpetsto dnevnih zneskov. Če se denarna kazen izreče v določenem znesku, najnižji znesek ne sme biti manjši od 30.000 tolarjev, najvišji pa ne večji od 3,000.000 tolarjev, za kazniva dejanja, storjena iz koristoljubnosti, pa ne večji od 9,000.000 tolarjev.
+Število dnevnih zneskov denarne kazni določi sodišče upoštevajoč splošna pravila o odmeri kazni. Višino dnevnega zneska določi sodišče tako, da upošteva višino storilčevega dnevnega zaslužka glede na njegovo trimesečno čisto plačo in njegove druge dohodke ter njegove družinske obveznosti. Pri določanju višine zneska se sodišče opre na podatke, ki v času izrekanja kazni niso stari več kot šest mesecev.
+Podatke iz prejšnjega odstavka, ki sodišču niso znani, priskrbi obdolženec v roku, ki ga določi sodišče, najkasneje pa do konca glavne obravnave. Če sodišču do konca glavne obravnave niso znane okoliščine, pomembne za določitev višine dnevnega zneska denarne kazni, izreče denarno kazen v določenem znesku, pri čemer upošteva splošna pravila za odmero kazni.
+Najnižji dnevni znesek denarne kazni znaša eno šestdesetino, najvišji pa eno tretjino zadnje uradno objavljene povprečne mesečne neto plače v Republiki Sloveniji na zaposleno osebo.
+V sodbi določi sodišče rok za plačilo denarne kazni. Ta rok ne sme biti krajši od petnajst dni in ne daljši od treh mesecev, vendar pa sme sodišče v opravičenih primerih dovoliti, da lahko obsojenec plača denarno kazen v obrokih, pri čemer rok za plačilo ne sme biti daljši od dveh let.
+Če se denarna kazen ne da niti prisilno izterjati, jo sodišče izvrši tako, da se za vsaka začeta dva dnevna zneska denarne kazni oziroma, če je bila denarna kazen izrečena v določenem znesku, za vsakih začetih 10.000 tolarjev določi en dan zapora, pri čemer zapor ne sme biti daljši od šestih mesecev.
+Če obsojenec plača samo del denarne kazni, se mu ostanek sorazmerno spremeni v zapor, če plača še ostanek, pa se izvrševanje zapora ustavi.
+Po obsojenčevi smrti se denarna kazen ne izvrši.
+Storilcu kaznivega dejanja zoper varnost javnega prometa sme sodišče izreči prepoved vožnje motornega vozila določene vrste ali kategorije.
+Sodišče določi čas trajanja kazni iz prejšnjega odstavka; ta ne sme biti krajši od treh mesecev in ne daljši od enega leta, računajoč od dneva pravnomočnosti sodbe. Čas, prebit v zaporu oziroma v zdravstvenem zavodu za zdravljenje in varstvo, se ne všteva v čas trajanja te kazni.
+Če je kazen iz prvega odstavka tega člena izrečena osebi, ki ima tuje dovoljenje za vožnjo motornega vozila, obsega ta kazen prepoved uporabe tega dovoljenja na ozemlju Republike Slovenije.
+Sodišče sme izreči tujcu izgon z ozemlja Republike Slovenije za čas od enega do desetih let.
+Trajanje izgona se šteje od dneva pravnomočnosti sodbe. Čas, prebit v zaporu, se ne všteva v čas trajanja te kazni.
+Storilcu kaznivega dejanja odmeri sodišče kazen v mejah, ki so z zakonom predpisane za to dejanje, glede na težo storjenega dejanja in storilčevo krivdo.
+Pri tem upošteva sodišče vse okoliščine, ki vplivajo na to, ali naj bo kazen manjša ali večja (olajševalne in obteževalne okoliščine), zlasti pa: stopnjo storilčeve kazenske odgovornosti, nagibe, iz katerih je dejanje storil, stopnjo ogrožanja ali kršitve zavarovane dobrine, okoliščine, v katerih je bilo dejanje storjeno, prejšnje življenje storilca, njegove osebne in premoženjske razmere, njegovo obnašanje po storjenem dejanju, zlasti, ali je poravnal škodo, povzročeno s kaznivim dejanjem in druge okoliščine, ki se nanašajo na storilčevo osebnost.
+Pri odmeri kazni storilcu, ki je storil kaznivo dejanje, potem ko je že bil pravnomočno obsojen, ali pa je kazen prestal oziroma je zastarala ali pa mu je bila odpuščena (povratek), sodišče upošteva zlasti, ali je bilo prejšnje dejanje iste vrste kot novo, ali sta bili obe dejanji storjeni iz enakih nagibov, in koliko časa je preteklo od prejšnje obsodbe oziroma od prestane, odpuščene ali zastarane kazni.
+če storilec kaznivih dejanj, storjenih v hudodelski združbi, prepreči nadaljnje izvrševanje teh dejanj, ali če razkrije podatke, ki so pomembni za preiskovanje in dokazovanje že storjenih kaznivih dejanj.
+če je za kaznivo dejanje predpisana kazen zapora in pri tem ni določena najmanjša mera, sme namesto zapora izreči denarno kazen.
+Sodišče sme storilcu kaznivega dejanja odpustiti kazen, kadar to zakon posebej določa.
+Kadar ima sodišče pravico storilcu kaznivega dejanja odpustiti kazen, mu jo sme omiliti brez omejitev, ki so predpisane za omilitev kazni.
+Sodišče sme storilcu, ki je storil kaznivo dejanje iz malomarnosti, odpustiti kazen, če posledice dejanja storilca toliko prizadevajo, da izrek kazni v takšnem primeru očitno ne bi bil upravičen.
+če od dneva, ko je bil storilec odpuščen s prestajanja prej izrečene kazni, do novega kaznivega dejanja še ni preteklo pet let.
+Strožja kazen ne sme preseči dvojne mere predpisane kazni in ne dvajsetih let zapora.
+Pri presoji, ali naj izreče strožjo kazen od predpisane, upošteva sodišče zlasti sorodnost storjenih kaznivih dejanj, nagibe, iz katerih so bila kazniva dejanja storjena, in druge okoliščine, ki kažejo na to, da bo storilec ponavljal takšna kazniva dejanja.
+Če je storilec z enim dejanjem ali z več dejanji storil dvoje ali več kaznivih dejanj, za katera se mu hkrati sodi, določi sodišče najprej kazen za vsako posamezno kaznivo dejanje, nato pa izreče za vsa ta kazniva dejanja enotno kazen.
+če je za kazniva dejanja v steku določilo več istovrstnih stranskih kazni, izreče enotno stransko kazen tako, da ne sme doseči njihovega seštevka in ne preseči najvišje mere te kazni.
+Če je sodišče za kazniva dejanja v steku določilo za najmanj tri kazniva dejanja kazen nad deset let zapora, sme izreči zapor tridesetih let.
+Stransko kazen izreče sodišče, čeprav je bila določena le za eno samo kaznivo dejanje v steku; če pa je določilo več denarnih kazni, izreče eno samo denarno kazen po 4. točki drugega odstavka tega člena.
+Če je sodišče za kazniva dejanja v steku določilo kazni zapora in mladoletniškega zapora, izreče zapor kot enotno kazen po pravilih, ki so določena v 1., 2. in 3. točki drugega odstavka tega člena.
+Če sodi sodišče obsojenca zaradi kaznivega dejanja, ki ga je storil, preden je začel prestajati kazen po poprejšnji obsodbi, ali zaradi kaznivega dejanja, ki ga je storil med prestajanjem zapora ali mladoletniškega zapora, izreče za vsa kazniva dejanja enotno kazen po prejšnjem členu; pri tem upošteva, da je prej izrečena kazen že določena. Kazen ali del kazni, ki jo je obsojenec že prestal, se mu všteje v izrečeno kazen zapora.
+Za kaznivo dejanje, ki ga je storil med prestajanjem zapora ali mladoletniškega zapora, izreče sodišče storilcu kazen ne glede na prej izrečene kazni, če bi bil neprestani del prej izrečene kazni pri uporabi določb prejšnjega člena nesorazmerno majhen.
+Obsojenec, ki je storil v zavodu za prestajanje kazni zapora med prestajanjem zapora ali mladoletniškega zapora kaznivo dejanje, za katero predpisuje zakon denarno kazen ali zapor do enega leta, se kaznuje disciplinsko.
+Čas, prestan v priporu, ter kakršenkoli odvzem prostosti v zvezi s kaznivim dejanjem, se všteva v izrečeno kazen zapora, mladoletniškega zapora in denarno kazen.
+Če je uveden kazenski postopek za več kaznivih dejanj in pripor ni odrejen za vsako od njih, se čas, prebit v priporu, všteva v izrečeno kazen zapora, mladoletniškega zapora in denarno kazen za kaznivo dejanje, za katero je obdolženec obsojen.
+Zapor, denarna kazen ali kakšna druga sankcija, ki jo je obsojenec prestal oziroma plačal za prekršek, ter kazen ali disciplinski odvzem prostosti, ki ga je prestal zaradi kršitve vojaške discipline, se mu všteje v kazen, izrečeno za kaznivo dejanje, katerega znaki imajo tudi znake prekrška oziroma kršitve vojaške discipline.
+Dan pripora, dan odvzema prostosti, dan mladoletniškega zapora, dan zapora in dva dnevna zneska denarne kazni oziroma 10.000 tolarjev, če je bila denarna kazen izrečena v določenem znesku, so pri vsakem vštevanju izenačeni.
+Sodišče sme ob pogojih, ki so določeni s tem zakonikom, izreči storilcu kaznivega dejanja pogojno obsodbo namesto kazni.
+S pogojno obsodbo določi sodišče storilcu kaznivega dejanja kazen, ki pa ne bo izrečena, če obsojenec v času, ki ga določi sodišče in ki ne sme biti krajši od enega in ne daljši od petih let (preizkusna doba), ne bo storil novega kaznivega dejanja.
+V pogojni obsodbi lahko sodišče določi, da bo določena kazen izrečena tudi, če obsojenec v določenem roku ne vrne premoženjske koristi, do katere je prišel s kaznivim dejanjem, ne povrne škode, ki jo je povzročil s kaznivim dejanjem, ali ne izpolni drugih, v kazenskopravnih določbah predvidenih obveznosti. Rok za izpolnitev teh obveznosti določi sodišče v mejah preizkusne dobe.
+Varnostni ukrepi, izrečeni ob pogojni obsodbi, se izvršijo.
+Pogojna obsodba se sme izreči, če je sodišče storilcu določilo kazen zapora do dveh let ali denarno kazen.
+Pogojna obsodba se ne sme izreči za kazniva dejanja, za katera je predpisana kazen zapora najmanj treh let.
+Sodišče izreče pogojno obsodbo, če glede na osebnost storilca, njegovo prejšnje življenje, njegovo obnašanje po storjenem kaznivem dejanju, stopnjo kazenske odgovornosti in glede na druge okoliščine, v katerih je dejanje storil, spozna, da je mogoče pričakovati, da ne bo več ponavljal kaznivih dejanj.
+Če sodišče v pogojni obsodbi določi stranske kazni, sme izreči, da se vse ali posamezne stranske kazni izvršijo.
+Sodišče prekliče pogojno obsodbo, če stori obsojenec v preizkusni dobi eno ali več kaznivih dejanj, za katera je izreklo kazen zapora dveh let ali daljšo kazen.
+Če stori obsojenec v preizkusni dobi eno ali več kaznivih dejanj, za katera je sodišče določilo kazen zapora manj kot dve leti ali denarno kazen, odloči sodišče, ali bo preklicalo pogojno obsodbo, ko presodi vse okoliščine, ki se nanašajo na storjena kazniva dejanja in storilca, zlasti pa na sorodnost storjenih kaznivih dejanj, njihov pomen in nagibe, iz katerih so bila storjena. Pri tem je vezano na prepoved, da ne sme izreči pogojne obsodbe, če je treba storilcu za kazniva dejanja, ugotovljena v pogojni obsodbi, in za nova kazniva dejanja izreči kazen več kot dveh let zapora (prvi odstavek prejšnjega člena).
+Če sodišče prekliče pogojno obsodbo, izreče po 47. členu tega zakonika enotno kazen za prej storjeno in za novo kaznivo dejanje; pri tem vzame, da je kazen iz preklicane pogojne obsodbe že določena.
+Če sodišče ne prekliče pogojne obsodbe, sme za novo kaznivo dejanje izreči pogojno obsodbo ali kazen. Če spozna, da je treba tudi za novo kaznivo dejanje izreči pogojno obsodbo, določi po 47. členu tega zakonika enotno kazen za prej storjeno in za novo kaznivo dejanje in določi novo preizkusno dobo, ki ne sme biti krajša od enega leta in ne daljša od petih let in se šteje od pravnomočnosti nove sodbe. Obsojencu, ki mu je za novo kaznivo dejanje izrečen zapor, se čas prestajanja te kazni ne šteje v preizkusno dobo, določeno s pogojno obsodbo za prejšnje kaznivo dejanje.
+Sodišče prekliče pogojno obsodbo, če po njenem izreku ugotovi, da je obsojenec storil kaznivo dejanje, preden je bil pogojno obsojen, in če sodi, da ne bi bilo podlage za pogojno obsodbo, če bi se bilo vedelo za to dejanje. V takem primeru ravna po tretjem odstavku prejšnjega člena.
+Če sodišče ne prekliče pogojne obsodbe, ravna po četrtem odstavku prejšnjega člena.
+Če je bilo s pogojno obsodbo obsojencu naloženo, da izpolni kakšno obveznost iz tretjega odstavka 50. člena tega zakonika, pa je ni izpolnil v roku, ki mu je bil določen v sodbi, sme sodišče v mejah preizkusne dobe podaljšati rok za izpolnitev obveznosti ali pa preklicati pogojno obsodbo in izreči kazen, ki je bila določena v pogojni obsodbi. Če spozna, da obsojenec iz upravičenih razlogov ne more izpolniti naložene obveznosti, mu sodišče lahko odpusti njeno izpolnitev ali pa jo nadomesti z drugo ustrezno obveznostjo, določeno v zakonu.
+Pogojna obsodba se sme preklicati v preizkusni dobi. Če stori obsojenec v tem času kaznivo dejanje, ki ima za posledico preklic pogojne obsodbe, pa se to s sodbo ugotovi šele po preteku preizkusne dobe, se sme pogojna obsodba preklicati najpozneje v enem letu, odkar je pretekla preizkusna doba.
+Če obsojenec v danem roku ne izpolni obveznosti iz tretjega odstavka 50. člena tega zakonika, sme sodišče najpozneje v enem letu, odkar je pretekla preizkusna doba, preklicati pogojno obsodbo in izreči kazen, ki je bila določena v pogojni obsodbi.
+Ob pogojih, določenih v tem zakoniku, sme sodišče določiti, da bo storilec, ki mu je bila izrečena pogojna obsodba, za določen čas med preizkusno dobo pod varstvenim nadzorstvom.
+Varstveno nadzorstvo obsega z zakonom določeno pomoč, nadzor ali varstvo.
+Če obsojenec, ki mu je bilo izrečeno varstveno nadzorstvo, ne izpolnjuje obveznosti, ki mu jih je naložilo sodišče, ga sodišče lahko opomni ali mu prejšnje obveznosti nadomesti z drugimi ali podaljša varstveno nadzorstvo v mejah preizkusne dobe ali pa prekliče pogojno obsodbo.
+Ukrep varstvenega nadzorstva izreče sodišče, če spozna, da je storilcu med preizkusno dobo potrebna kakšna oblika takega nadzorstva (drugi odstavek prejšnjega člena). Ta ukrep izreče sodišče za določen čas v mejah preizkusne dobe, določene s pogojno obsodbo.
+Če sodišče ugotovi, da varstveno nadzorstvo ni več potrebno, sme izvrševanje tega ukrepa ustaviti še pred potekom preizkusne dobe.
+Ko izreče ukrep varstvenega nadzorstva, lahko odredi sodišče tudi eno ali več navodil, po katerih se mora ravnati obsojenec.
+Pri izbiri navodil upošteva sodišče zlasti storilčevo starost, njegove psihične lastnosti, nagibe, iz katerih je storil dejanje, osebne razmere, njegovo prejšnje življenje, okoliščine, v katerih je storil dejanje, ter njegovo obnašanje po storjenem kaznivem dejanju. Posebej mora paziti, da z izbiro navodil ne bo prizadelo obsojenčevega človeškega dostojanstva ali mu povzročilo posebnih težav.
+porabljati dohodke v skladu z preživninskimi dolžnostmi.
+Med preizkusno dobo sme sodišče spremeniti ali odpraviti navodila po uradni dolžnosti, na predlog svetovalca ali obsojenca.
+Varstveno nadzorstvo izvršuje svetovalec, ki ga določi sodišče.
+občasno poročati sodišču o izvrševanju varstvenega nadzorstva, predlagati spremembo ali odpravo navodil ter ustavitev nadzorstva.
+Če obsojenec med preizkusno dobo ne izpolnjuje navodil ali se izmika stikom s svetovalcem, ga sme sodišče posvariti, spremeniti navodila, podaljšati varstveno nadzorstvo v mejah določene preizkusne dobe ali preklicati pogojno obsodbo.
+Sodni opomin se sme izreči za kazniva dejanja, za katera je predpisana denarna kazen ali zapor do enega leta, če so storjena v takih olajševalnih okoliščinah, ki jih delajo posebno lahka.
+Za določena kazniva dejanja se sme izreči sodni opomin ob pogojih, ki jih določa zakon, tudi kadar je zanje predpisan zapor do treh let.
+Sodni opomin sme sodišče izreči za več kaznivih dejanj, storjenih v steku, če so za vsako od teh dejanj podani pogoji iz prvega ali drugega odstavka tega člena.
+Pri odločanju, ali naj izreče sodni opomin, upošteva sodišče osebnost storilca, njegovo prejšnje življenje, njegovo obnašanje po storjenem kaznivem dejanju, stopnjo kazenske odgovornosti in druge okoliščine, v katerih je dejanje storil.
+odvzem predmetov.
+Sodišče sme izreči storilcu kaznivega dejanja enega ali več varnostnih ukrepov, kadar so zanje podani s tem zakonikom določeni pogoji.
+Obvezno psihiatrično zdravljenje in varstvo v zdravstvenem zavodu in obvezno psihiatrično zdravljenje na prostosti se izrekata neprištevnemu storilcu kaznivega dejanja samostojno. Poleg teh dveh ukrepov sme sodišče izreči tudi prepoved opravljanja poklica, odvzem vozniškega dovoljenja in odvzem predmetov.
+Odvzem vozniškega dovoljenja in odvzem predmetov se smeta izreči, če je bila storilcu izrečena kazen, pogojna obsodba, sodni opomin ali mu je bila odpuščena kazen.
+Obvezno zdravljenje alkoholikov in narkomanov in prepoved opravljanja poklica, se smeta izreči, če je bila storilcu izrečena kazen zapora ali v pogojni obsodbi določena kazen zapora.
+Storilcu, ki je storil kaznivo dejanje v stanju neprištevnosti ali bistveno zmanjšane prištevnosti, izreče sodišče obvezno psihiatrično zdravljenje in varstvo v zdravstvenem zavodu, če na podlagi teže storjenega kaznivega dejanja in stopnje storilčeve duševne motenosti ugotovi, da bi na prostosti lahko storil kakšno hudo kaznivo dejanje zoper življenje, telo, spolno nedotakljivost ali premoženje in da je takšno nevarnost mogoče odpraviti le z zdravljenjem in varstvom v zdravstvenem zavodu.
+Sodišče ustavi ukrep iz prejšnjega odstavka, ko ugotovi, da zdravljenje in varstvo v zdravstvenem zavodu nista več potrebna. Sodišče po preteku enega leta vsako leto znova odloči, ali je nadaljnje zdravljenje in varstvo v zdravstvenem zavodu še potrebno.
+Ukrep iz prvega odstavka tega člena traja za neprištevnega storilca največ deset let.
+Storilcu, ki je storil kaznivo dejanje v stanju bistveno zmanjšane prištevnosti in je bil obsojen na zapor, se izvrševanje ukrepa iz prvega odstavka tega člena ustavi, ko je v zdravstvenem zavodu prestal čas, za katerega mu je bila izrečena kazen. Čas, prestan v zdravstvenem zavodu, se všteje v čas prestajanja kazni. Če je ta čas krajši od izrečene kazni, lahko sodišče odredi, da mora obsojenec prestati ostanek kazni, ali da naj bo izpuščen na pogojni odpust. Pri odločanju o pogojnem odpustu obsojenca upošteva sodišče zlasti uspeh zdravljenja, njegovo zdravstveno stanje, čas, ki ga je prestal v zdravstvenem zavodu, in ostanek kazni, ki je ni prestal.
+Storilcu, ki je storil kaznivo dejanje v stanju neprištevnosti, izreče sodišče obvezno psihiatrično zdravljenje na prostosti, če ugotovi, da je to potrebno in da zadostuje za to, da storilec ne bo ponavljal hujših kaznivih dejanj.
+Sodišče sme izreči obvezno psihiatrično zdravljenje na prostosti tudi storilcu, čigar prištevnost je bistveno zmanjšana in je bil po četrtem odstavku prejšnjega člena izpuščen na pogojni odpust.
+Obvezno psihiatrično zdravljenje sme trajati najdalj dve leti. Sodišče po preteku enega leta ponovno odloči o tem, ali je obvezno zdravljenje na prostosti še potrebno.
+Če se storilec noče zdraviti na prostosti, ali če zdravljenje samovoljno opusti, ali če zdravljenje ni uspešno, lahko sodišče ob pogojih iz prvega odstavka prejšnjega člena odredi, da se ta ukrep izvršuje v ustreznem zdravstvenem zavodu. Tudi v takšnem primeru sme ta ukrep trajati največ dve leti. Sodišče po preteku enega leta ponovno odloči o tem, ali je ta ukrep še potreben.
+Storilcu, ki je storil kaznivo dejanje zaradi odvisnosti od alkohola ali mamil in je nevarnost, da bo zaradi tega ponavljal kazniva dejanja, sme sodišče izreči obvezno zdravljenje.
+Ukrep iz prejšnjega odstavka se izvršuje v zavodu za izvrševanje kazni ali v zdravstvenem zavodu. Čas, prestan v zdravstvenem zavodu, se všteje v kazen.
+Kadar izreče pogojno obsodbo, sme sodišče naložiti storilcu zdravljenje na prostosti, pri čemer upošteva zlasti njegovo pripravljenost za takšno zdravljenje. Če se storilec brez upravičenega razloga ne začne zdraviti, ali če zdravljenje samovoljno opusti, sme sodišče pogojno obsodbo preklicati.
+Če je bil ta ukrep izrečen ob kazni zapora, sme trajati, dokler kazen ni prestana. Če je bil ta ukrep izrečen ob pogojni obsodbi, sme trajati najdalj dve leti.
+Sodišče sme storilcu kaznivega dejanja prepovedati opravljanje določenega poklica, določene samostojne dejavnosti ali kakšne dolžnosti, če je zlorabil svoj poklic, položaj, dejavnost ali dolžnost za kaznivo dejanje in če sodišče utemeljeno sklepa, da bi bilo zaradi tega nevarno, če bi še naprej opravljal tako dejavnost.
+Sodišče določi, koliko časa naj traja ukrep iz prejšnjega odstavka; ta ne sme trajati manj kot eno leto in ne dalj kot pet let, šteto od pravnomočnosti odločbe, pri čemer se čas, prestan v zaporu ali zdravstvenem zavodu za zdravljenje in varstvo, ne všteva v čas trajanja tega ukrepa.
+Kadar izreče pogojno obsodbo, sme sodišče določiti, da bo ta obsodba preklicana, če storilec prekrši prepoved opravljanja poklica.
+Sodišče sme odločiti, da ta varnostni ukrep preneha, če sta pretekli dve leti od začetka njegovega izvrševanja. O tem odloči sodišče na prošnjo obsojenca, če ugotovi, da so prenehali razlogi za izrek tega ukrepa.
+Storilcu kaznivega dejanja zoper varnost javnega prometa sme sodišče odvzeti vozniško dovoljenje za določene vrste motornih vozil in pri tem določiti, da se mu ne sme izdati novo dovoljenje za čas od enega do petih let. Če storilec vozniškega dovoljenja nima, sodišče izreče, da se mu dovoljenje ne sme izdati.
+Sodišče sme izreči ta ukrep, če spozna, da bi storilčeva nadaljnja udeležba v javnem prometu pomenila nevarnost za javni promet zaradi njegove nesposobnosti za varno upravljanje z motornimi vozili.
+Vozniško dovoljenje preneha veljati s pravnomočnostjo sodne odločbe. Čas, prestan v zaporu ali v zdravstvenem zavodu za zdravljenje in varstvo, se ne všteva v čas trajanja tega ukrepa.
+Po preteku časa, ki ga je določilo sodišče v okviru najmanjše in najvišje mere tega ukrepa, sme storilec na novo pridobiti vozniško dovoljenje ob splošnih pogojih, ki so predpisani za pridobitev posameznih vrst vozniških dovoljenj.
+Sodišče sme odločiti, da ta varnostni ukrep preneha in da sme storilec na novo pridobiti vozniško dovoljenje, če sta pretekli dve leti od začetka njegovega izvrševanja. O tem odloči sodišče na prošnjo obsojenca, če ugotovi, da so prenehali razlogi za izrek tega ukrepa.
+Predmeti, ki so bili uporabljeni ali namenjeni za kaznivo dejanje ali so nastali s kaznivim dejanjem, se smejo vzeti, če so storilčeva last.
+Predmeti iz prejšnjega odstavka se smejo vzeti tudi tedaj, kadar niso storilčeva last, če to terjajo splošna varnost ali moralni razlogi, vendar pa pravica drugih terjati od storilca odškodnino s tem ni prizadeta.
+Z zakonom se sme določiti obvezen odvzem predmetov, tudi če niso storilčeva last.
+Za mladoletne storilce kaznivih dejanj veljajo določbe tega poglavja, druge določbe tega zakonika pa le, če ne nasprotujejo posebnim določbam, ki veljajo zanje.
+Posebne določbe, ki veljajo za mladoletne storilce kaznivih dejanj, se pod pogoji, določenimi v tem poglavju, uporabljajo tudi za polnoletne, kadar se jim sodi za kazniva dejanja, ki so jih storili kot mladoletniki, izjemoma pa tudi za tiste, ki so storili kaznivo dejanje kot mlajši polnoletniki.
+Proti mladoletni osebi, ki ob storitvi kaznivega dejanja še ni bila stara štirinajst let (otrok), se ne smejo uporabiti kazenske sankcije.
+Mladoletniku, ki je bil ob storitvi kaznivega dejanja že star štirinajst let, pa še ni bil star šestnajst let (mlajši mladoletnik), se smejo izreči le vzgojni ukrepi.
+Mladoletniku, ki je bil ob storitvi kaznivega dejanja že star šestnajst let, pa še ni bil star osemnajst let (starejši mladoletnik), se smejo izreči vzgojni ukrepi pod pogoji, določenimi v tem zakoniku.
+Kazensko odgovornemu starejšemu mladoletniku se sme izjemoma izreči tudi denarna kazen ali mladoletniški zapor, ob teh kaznih pa kot stranski kazni tudi prepoved vožnje motornega vozila ali izgon tujca iz države.
+Mladoletnim storilcem kaznivih dejanj se lahko izrečejo tudi varnostni ukrepi, razen prepovedi opravljanja poklica, če jim je izrečen vzgojni ukrep, denarna kazen ali mladoletniški zapor.
+Namen vzgojnih ukrepov in kazni za mladoletnike je, da se mladoletnim storilcem kaznivih dejanj z varstvom in s pomočjo, z nadzorstvom nad njimi, njihovim strokovnim usposabljanjem in razvijanjem njihove osebne odgovornosti zagotovijo njihova vzgoja, prevzgoja in pravilen razvoj.
+oddaja v zavod za usposabljanje.
+Ukor, navodila in prepovedi ali nadzorstvo organa socialnega varstva izreče sodišče mladoletniku, ki ga je potrebno opozoriti na nepravilnost njegovega ravnanja ter zagotoviti njegovo vzgojo, prevzgojo in pravilen razvoj v njegovem dotedanjem okolju s pomočjo kratkih ali trajnejših ukrepov ob ustreznem strokovnem vodenju.
+Oddajo v vzgojni zavod, oddajo v prevzgojni dom ali oddajo v zavod za usposabljanje (zavodski ukrepi) izreče sodišče mladoletniku, pri katerem so potrebni trajnejši vzgojni, prevzgojni ali zdravstveni ukrepi in njegova popolna ali delna izločitev iz dotedanjega okolja. Zavodski ukrepi se uporabijo kot skrajnje sredstvo in smejo trajati v mejah, določenih z zakonom, le toliko časa, kolikor je potrebno, da bo dosežen namen vzgojnih ukrepov.
+Pri izbiri vzgojnega ukrepa upošteva sodišče mladoletnikovo starost in njegovo duševno razvitost, njegove psihične lastnosti, njegova nagnjenja, nagibe, iz katerih je dejanje storil, dotedanjo vzgojo, okolje in razmere, v katerih je živel, težo in naravo dejanja, ali mu je bil že prej izrečen vzgojni ukrep ali kazen, in vse druge okoliščine, ki vplivajo na to, da izreče sodišče tisti ukrep, s katerim bo najbolje dosežen namen vzgojnih ukrepov.
+Sodišče izreče mladoletniku ukor, če spozna, da bo že z grajo mladoletnika dosežen namen vzgojnih ukrepov.
+Ko izreče sodišče mladoletniku ukor, mu prikaže škodljivost in nepravilnost njegovega ravnanja in ga opozori, da mu bo lahko izreklo strožjo kazensko sankcijo, če bi storil novo kaznivo dejanje.
+Sodišče izreče mladoletniku eno ali več navodil ali prepovedi kot samostojen vzgojni ukrep, če je treba s primernimi ukrepi vplivati nanj in na njegovo vedenje.
+prepoved vožnje motornega vozila pod pogoji, pod katerimi je mogoče to sankcijo izreči polnoletnim.
+Pri izbiri in izrekanju navodil in prepovedi sodišče praviloma upošteva mladoletnikovo pripravljenost za sodelovanje.
+Navodila ali prepovedi smejo trajati najdalj eno leto.
+Sodišče lahko navodila in prepovedi med izvrševanjem spremeni ali odpravi, če bo s tem bolje dosežen namen vzgojnih ukrepov.
+V okviru navodila iz 2. točke drugega odstavka tega člena določi sodišče obseg, obliko in način povrnitve škode, pri tem pa osebno delo mladoletnika ne sme preseči šestdeset ur v obdobju treh mesecev in mora biti razporejeno tako, da ni moteno mladoletnikovo šolanje ali njegova zaposlitev.
+V okviru navodila iz 6. točke drugega odstavka tega člena sme sodišče določiti mladoletniku opravljanje del do največ stodvajset ur v obdobju šestih mesecev in sicer tako, da ni moteno mladoletnikovo šolanje ali njegova zaposlitev.
+Navodilo iz 9. točke drugega odstavka tega člena izreče sodišče zlasti, če je to potrebno za mladoletnikovo izobraževanje ali delovno usposabljanje; sodišče sme določiti to navodilo za največ štiri ure dnevno, in sicer tako, da ni moteno mladoletnikovo šolanje ali njegova zaposlitev.
+Izvrševanje navodil iz 2., 6. in 9. točke drugega odstavka tega člena pripravijo in vodijo organi socialnega varstva; pri njihovem izvrševanju sodeluje in ga nadzoruje sodnik za mladoletnike.
+Pri izvrševanju navodil iz drugega odstavka tega člena se ne sme prizadeti mladoletnikovo človeško dostojanstvo.
+Če mladoletnik navodil ali prepovedi ne izpolnjuje, lahko sodišče namesto njih izreče vzgojni ukrep nadzorstva organa socialnega varstva. Na to opozori sodišče mladoletnika, njegove starše, posvojitelja, rejnika ali skrbnika, ko izreče navodila ali prepovedi.
+Če mladoletnik potrebuje strokovno pomoč in nadzorstvo ter je potrebno trajneje vplivati na njegovo vzgojo, prevzgojo in pravilen razvoj, mu sodišče izreče nadzorstvo organa socialnega varstva.
+Sodišče odloči pozneje, kdaj preneha ta ukrep, z omejitvijo, da ne sme trajati manj kot eno leto in ne dalj kot tri leta. Dokler traja ta ukrep, ostane mladoletnik še naprej pri svojih starših ali drugih ljudeh, ki ga preživljajo, svetovalec, ki ga določi organ socialnega varstva, pa opravlja nadzorstvo.
+Določeni svetovalec mladoletnika nadzoruje, predvsem pa skrbi za njegovo šolanje, zaposlitev, izločitev iz okolja, ki nanj škodljivo vpliva, za potrebno zdravljenje in ureditev razmer, v katerih živi.
+Ob vzgojnem ukrepu nadzorstva organa socialnega varstva lahko sodišče določi mladoletniku katero izmed navodil in prepovedi iz prejšnjega člena, ki v tem primeru nimajo narave samostojnega vzgojnega ukrepa.
+Sodišče izreče oddajo v vzgojni zavod mladoletniku, glede katerega je treba poskrbeti za njegovo vzgojo in prevzgojo pod stalnim vodstvom in nadzorstvom strokovnih vzgojiteljev.
+V vzgojnem zavodu ostane mladoletnik najmanj šest mesecev in največ tri leta. Ko izreče sodišče ta ukrep, ne določi, koliko časa naj traja, temveč odloči o njegovem prenehanju pozneje.
+Vzgojni ukrep oddaje v vzgojni zavod se lahko izvaja tudi v stanovanjskih skupinah, ki jih organizirajo vzgojni zavodi, ali z dnevnim bivanjem mladoletnikov v vzgojnem zavodu.
+Če so mladoletniku potrebni učinkovitejši prevzgojni ukrepi, izreče sodišče oddajo v prevzgojni dom.
+Pri odločanju o tem, ali naj izreče ta ukrep, upošteva sodišče zlasti naravo in težo storjenega kaznivega dejanja ter okoliščino, ali so bili mladoletniku že prej izrečeni vzgojni ukrepi ali kazni.
+V prevzgojnem domu ostane mladoletnik najmanj eno leto in največ tri leta. Ko izreče sodišče ta ukrep, ne določi, koliko časa naj traja, temveč odloči o njegovem prenehanju pozneje.
+Mladoletniku, ki je moten v duševnem ali telesnem razvoju, sme izreči sodišče namesto oddaje v vzgojni zavod ali prevzgojni dom oddajo v ustrezen zavod za usposabljanje.
+Ta ukrep lahko izreče sodišče tudi namesto varnostnega ukrepa obveznega psihiatričnega zdravljenja in varstva v zdravstvenem zavodu, če je mogoče v zavodu za usposabljanje poskrbeti za zdravljenje in varstvo in s tem doseči namen tega varnostnega ukrepa.
+Mladoletnik ostane v zavodu za usposabljanje dokler je to potrebno za njegovo usposabljanje, zdravljenje ali varstvo, vendar najdalj tri leta.
+Če je sodišče izreklo mladoletniku ta vzgojni ukrep namesto varnostnega ukrepa po drugem odstavku tega člena, po preteku enega leta vsako leto znova odloči, ali sta zdravljenje in varstvo še potrebna. Ob mladoletnikovi polnoletnosti pa sodišče preizkusi, ali je potrebno, da še ostane v tem zavodu, ali pa ga je treba premestiti v ustrezen zavod za polnoletne osebe.
+Sodišče lahko pogojno odpusti mladoletnika, kateremu je bil izrečen vzgojni ukrep oddaje v vzgojni zavod ali oddaje v prevzgojni dom, ko je prebil v zavodu najmanj eno leto, če je mogoče na podlagi doseženih rezultatov vzgoje in prevzgoje utemeljeno sklepati, da v času trajanja pogojnega odpusta ne bo ponavljal kaznivih dejanj.
+Sodišče lahko odloči, da se za čas trajanja pogojnega odpusta mladoletniku izreče vzgojni ukrep nadzorstva organa socialnega varstva.
+Sodišče lahko prekliče pogojni odpust, če stori mladoletnik novo kaznivo dejanje ali se ne drži obveznosti v okviru vzgojnega ukrepa nadzorstva organa socialnega varstva. V tem primeru se čas, prestan na pogojnem odpustu, ne šteje v čas trajanja vzgojnega ukrepa.
+Pogojni odpust lahko traja najdalj do izteka zakonskega roka trajanja izrečenega zavodskega ukrepa ali dokler sodišče ne ustavi izvrševanja tega ukrepa, ali ga zamenja z drugim vzgojnim ukrepom.
+Kadar se po odločbi, s katero je bil izrečen vzgojni ukrep nadzorstva organa socialnega varstva ali zavodski ukrep, pokažejo okoliščine, ki jih ni bilo takrat, ko se je o tem odločalo, ali se zanje ni vedelo, so pa take, da bi vplivale na odločbo, se izvrševanje izrečenega ukrepa lahko ustavi, ali pa se ta nadomesti z drugim vzgojnim ukrepom.
+izvrševanje oddaje v prevzgojni dom se pred potekom enega leta ne sme ustaviti, do tega časa pa se sme nadomestiti z oddajo mladoletnika v vzgojni zavod ali v zavod za usposabljanje.
+Če je preteklo od pravnomočnosti odločbe, s katero je bil izrečen vzgojni ukrep nadzorstva organa socialnega varstva ali zavodski ukrep, več kot eno leto, pa se ukrep ni začel izvrševati, odloči sodišče, ali naj se izrečeni ukrep izvrši ali ne, lahko pa ga tudi nadomesti s kakšnim drugim vzgojnim ukrepom.
+Tako ravna sodišče tudi, če se je vzgojni ukrep sicer začel izvrševati, pa se zaradi bega mladoletnika iz vzgojnega zavoda ali iz drugega razloga ni izvrševal dalj kot eno leto.
+Če je storil mladoletnik več kaznivih dejanj v steku, presoja sodišče pri izbiri vzgojnih ukrepov, ki so predpisani v tem zakoniku, enotno vsa dejanja, ne da bi določalo za vsako poseben ukrep.
+Tako ravna sodišče tudi tedaj, kadar po izreku vzgojnega ukrepa ugotovi, da je mladoletnik pred njegovim izrekom ali po izreku storil kakšno kaznivo dejanje.
+Podatki iz evidence o vzgojnih ukrepih se smejo dajati samo sodiščem, državnim tožilstvom in organom za notranje zadeve v zvezi s kazenskim postopkom proti mladoletniku ter organom socialnega varstva in zavodom, ki izvršujejo vzgojne ukrepe.
+Nadzorstvo glede zakonitega in pravilnega izvrševanja vzgojnih ukrepov izvaja sodišče, ki je izreklo ukrep.
+Starejšemu mladoletniku sme sodišče, upoštevajoč tudi namen vzgojnih ukrepov, za kazniva dejanja, za katera je predpisana kazen zapora do petih let ali denarna kazen, izreči denarno kazen, če jo je po svojih dohodkih zmožen sam plačati.
+Če se denarna kazen mladoletniku izreče v dnevnih zneskih, njena najnižja mera znaša dva dnevna zneska, najvišja pa stoosemdeset dnevnih zneskov; če se mu denarna kazen izreče v določenem znesku, je njena najnižja mera 10.000 tolarjev, najvišja pa 1,500.000 tolarjev. Glede drugih pravil o odmeri denarne kazni uporabi sodišče določbe 38. člena tega zakonika.
+Če se denarna kazen ne da niti prisilno izterjati, sodišče namesto nje izreče enega izmed vzgojnih ukrepov iz 1. do 3. točke prvega odstavka 74. člena tega zakonika.
+Če stori mladoletnik več kaznivih dejanj v steku in sodišče spozna, da je treba za vsa dejanja izreči mladoletniku denarno kazen, izreče eno kazen v skladu z določbo drugega odstavka tega člena.
+Če pa sodišče spozna, da bi bilo treba starejšega mladoletnika za kakšno kaznivo dejanje kaznovati z denarno kaznijo, za drugo pa izreči vzgojni ukrep, izreče za vsa kazniva dejanja v steku denarno kazen ali vzgojni ukrep.
+Starejšemu mladoletniku sme sodišče izreči mladoletniški zapor za kaznivo dejanje, za katero je z zakonom predpisana kazen zapora petih ali več let, če zaradi narave in teže dejanja in zaradi visoke stopnje kazenske odgovornosti ne bi bilo upravičeno izreči vzgojnega ukrepa.
+Mladoletniški zapor ne sme biti krajši od šestih mesecev in ne daljši od petih let. Za kazniva dejanja, za katera je mogoče izreči kazen zapora tridesetih let, se sme izreči mladoletniški zapor do desetih let. Mladoletniški zapor se izreka na leta in cele mesece.
+Pri odmeri mladoletniškega zapora sodišče ni vezano na najmanjšo mero kazni zapora, predpisano za storjeno dejanje.
+Pri odmeri mladoletniškega zapora upošteva sodišče poleg olajševalnih in obteževalnih okoliščin (41. člen tega zakonika) še stopnjo mladoletnikove osebne zrelosti in čas, potreben za njegovo vzgojo, prevzgojo in strokovno usposabljanje.
+Če stori mladoletnik dvoje ali več kaznivih dejanj v steku in sodišče spozna, da je treba za vsa dejanja izreči mladoletniški zapor, izreče sodišče eno kazen v mejah zakonske mere te kazni. Če pa sodišče spozna, da bi bilo treba mladoletnika za kakšno kaznivo dejanje, ki je v steku, kaznovati z mladoletniškim zaporom, za druga kazniva dejanja pa izreči denarno kazen ali vzgojni ukrep, izreče za vsa dejanja v steku samo mladoletniški zapor.
+Tako ravna sodišče tudi tedaj, kadar se po izreku mladoletniškega zapora ugotovi, da je mladoletnik pred njegovim izrekom ali po njem storil kakšno kaznivo dejanje.
+Če izreče sodišče med izvrševanjem vzgojnega ukrepa, starejšemu mladoletniku mladoletniški zapor, preneha vzgojni ukrep, ko začne mladoletnik prestajati to kazen.
+Če izreče sodišče po izreku vzgojnega ukrepa polnoletnemu storilcu kaznivega dejanja mladoletniški zapor ali kazen zapora najmanj enega leta, se vzgojni ukrep ne izvrši; če pa se že izvršuje, se izvrševanje ustavi, ko začne prestajati kazen.
+Če izreče sodišče po izreku vzgojnega ukrepa polnoletnemu storilcu kaznivega dejanja kazen zapora manj kot eno leto, odloči v sodbi, ali naj se po prestani kazni vzgojni ukrep izvrši ali ne.
+Če izreče sodišče polnoletnemu storilcu kaznivega dejanja med izvrševanjem vzgojnega ukrepa zapor v trajanju manj od enega leta, odloči v sodbi, ali naj se po prestani kazni izvrševanje vzgojnega ukrepa nadaljuje ali pa naj se ustavi, ko se začne izvrševati izrečena kazen.
+Polnoletnemu, ki je dopolnil enaindvajset let, se ne sme soditi za kaznivo dejanje, ki ga je storil kot mlajši mladoletnik.
+Če polnoletni, ki je storil kaznivo dejanje kot mlajši mladoletnik, med sojenjem še ni dopolnil enaindvajset let, se mu sme soditi samo za kazniva dejanja, za katera je predpisana kazen hujša od petih let zapora. Takšnemu polnoletnemu sme sodišče izreči samo ustrezen zavodski vzgojni ukrep. Pri presoji, ali naj izreče ta ukrep, upošteva sodišče vse okoliščine primera, zlasti pa težo storjenega dejanja, čas, ki je pretekel od njegove storitve, storilčevo vedenje in namen tega vzgojnega ukrepa.
+Polnoletnemu se sme izreči za kaznivo dejanje, ki ga je storil kot starejši mladoletnik, vzgojni ukrep nadzorstva organa socialnega varstva, ustrezen zavodski vzgojni ukrep, ob pogojih iz 88. člena tega zakonika denarno kazen, ob pogojih iz 89. člena tega zakonika pa tudi mladoletniški zapor. Pri presoji, ali naj izreče sankcijo in katero izmed naštetih sankcij, upošteva sodišče vse okoliščine primera, zlasti pa težo storjenega dejanja, čas, ki je pretekel od njegove storitve, storilčevo vedenje in namen, ki ga je treba doseči s temi sankcijami.
+Polnoletnemu, ki je storil kaznivo dejanje kot starejši mladoletnik in ki je med sojenjem dopolnil enaindvajset let, sme izreči sodišče namesto mladoletniškega zapora zapor ali pogojno obsodbo. Kazen zapora, izrečena v takšnem primeru, ima glede rehabilitacije, izbrisa obsodbe in pravnih posledic enak pravni učinek kot mladoletniški zapor.
+Storilcu, ki je kot polnoleten storil kaznivo dejanje, pa med sojenjem še ni dopolnil enaindvajset let, sme sodišče izreči vzgojni ukrep nadzorstva organa socialnega varstva ali zavodski ukrep, če spozna, da je glede na njegovo osebnost in okoliščine, v katerih je storil dejanje, primerneje namesto kazni zapora izreči tak ukrep.
+Mlajšemu polnoletniku, ki mu je bil izrečen vzgojni ukrep, sme sodišče ob pogojih, določenih v tem zakoniku, izreči tudi stransko kazen prepovedi vožnje motornega vozila in varnostne ukrepe, razen prepovedi opravljanja poklica.
+Izrečeni vzgojni ukrep sme trajati najdalj do tedaj, ko storilec dopolni triindvajset let.
+Nihče ne more obdržati premoženjske koristi, ki je bila pridobljena s kaznivim dejanjem ali zaradi njega.
+Korist iz prejšnjega odstavka tega člena se odvzame s sodno odločbo, s katero je bilo ob pogojih, določenih v tem zakoniku, ugotovljeno kaznivo dejanje.
+Storilcu ali drugemu prejemniku koristi se odvzamejo denar, dragocenosti in vsaka druga premoženjska korist, ki je bila pridobljena s kaznivim dejanjem ali zaradi njega, če pa mu jih ni mogoče odvzeti, se mu odvzame premoženje, ki ustreza premoženjski koristi.
+Če storilcu ali drugemu prejemniku koristi ni mogoče odvzeti premoženjske koristi ali premoženja, ki ustreza premoženjski koristi, se mu naloži, da mora plačati denarni znesek, ki ustreza tej premoženjski koristi. Sodišče sme v upravičenih primerih dovoliti, da se denarni znesek, ki ustreza premoženjski koristi, lahko plača tudi v obrokih, pri čemer pa rok plačila ne sme biti daljši od dveh let.
+Premoženjska korist, pridobljena s kaznivim dejanjem ali zaradi njega, se lahko odvzame tudi tistim, na katere je bila prenešena brezplačno ali za plačilo, ki ne ustreza dejanski vrednosti, če so vedeli ali bi bili mogli vedeti, da je bila pridobljena s kaznivim dejanjem ali zaradi njega.
+Če je bila premoženjska korist, pridobljena s kaznivim dejanjem ali zaradi njega, prenešena na bližnje sorodnike storilca kaznivega dejanja (razmerja iz 230. člena tega zakonika), ali če je bilo zaradi onemogočanja odvzema premoženjske koristi po prvem odstavku tega člena na te osebe prenešeno kakšno drugo njegovo premoženje, se jim to odvzame, razen če dokažejo, da so zanj plačali dejansko vrednost.
+Če je bil oškodovancu v kazenskem postopku prisojen premoženjskopravni zahtevek, izreče sodišče odvzem premoženjske koristi, kolikor ta presega oškodovancu prisojeni premoženjskopravni zahtevek.
+Oškodovanec, ki ga je sodišče v kazenskem postopku glede premoženjskopravnega zahtevka napotilo na pravdo, lahko zahteva poplačilo iz odvzete vrednosti, če začne pravdo v šestih mesecih od pravnomočnosti odločbe, s katero je bil napoten na pravdo, in če zahteva poplačilo iz odvzete vrednosti v treh mesecih od pravnomočnosti odločbe, s katero je bil ugotovljen njegov zahtevek.
+Oškodovanec, ki ni priglasil premoženjskopravnega zahtevka v kazenskem postopku, lahko zahteva poplačilo iz odvzete vrednosti, če je pravdo za ugotovitev svojega zahtevka začel v treh mesecih od dneva, ko je zvedel za odločbo, s katero je bila odvzeta premoženjska korist, najpozneje pa v dveh letih od pravnomočnosti te odločbe, in če v treh mesecih od pravnomočnosti odločbe, s katero je bil ugotovljen njegov zahtevek, zahteva poplačilo iz odvzete vrednosti.
+Če je bila s kaznivim dejanjem ali zaradi njega pridobljena premoženjska korist pravni osebi, se ji taka korist odvzame. Pravni osebi se odvzame tudi premoženjska korist ali premoženje, ki ustreza premoženjski koristi, če ga osebe, navedene v prvem odstavku 96. člena tega zakonika, prenesejo nanjo brezplačno ali za plačilo, ki ne ustreza dejanski vrednosti.
+Obsodbe za določena kazniva dejanja ali na določene kazni imajo lahko za pravno posledico prenehanje oziroma izgubo določenih pravic ali prepoved pridobitve določenih pravic.
+Pravne posledice obsodbe ne morejo nastati, če je bila storilcu za kaznivo dejanje izrečena denarna kazen, pogojna obsodba ali sodni opomin ali če mu je bila kazen odpuščena.
+Pravne posledice obsodbe se smejo predpisati samo z zakonom in nastanejo po samem zakonu, s katerim so predpisane.
+Za storilca se sme uporabiti samo tista pravna posledica obsodbe, ki je bila z zakonom določena ob času storitve kaznivega dejanja.
+Pravna posledica obsodbe, ki se nanaša na prenehanje ali izgubo določenih pravic, je prenehanje opravljanja določenih javnih funkcij ali pooblastil uradne osebe.
+prepoved pridobitve določenih dovoljenj ali odobritev, ki jih dajejo državni organi s svojo odločbo.
+Pravne posledice iz prejšnjega odstavka ne morejo nastati za mladoletnika.
+Pravne posledice učinkujejo od dneva pravnomočnosti obsodbe.
+Pravne posledice obsodbe, ki so v prepovedi pridobitve določenih pravic, smejo trajati največ pet let od dneva, ko je bila kazen prestana, odpuščena ali zastarana, če ni za posamezne pravne posledice z zakonom določen krajši rok.
+Po preteku dveh let od dneva, ko je bila kazen prestana, zastarana ali odpuščena, sme sodišče na prošnjo obsojenca odrediti, da preneha pravna posledica obsodbe, ki se nanaša na prepoved pridobitve določene pravice.
+Pri presoji, ali naj odredi prenehanje pravne posledice obsodbe, upošteva sodišče vedenje obsojenca po obsodbi, ali je povrnil škodo, ki jo je povzročil s kaznivim dejanjem, kot tudi druge okoliščine, ki kažejo, da je prenehanje pravne posledice obsodbe utemeljeno.
+S prenehanjem pravnih posledic obsodbe niso prizadete tiste pravice drugih, ki se opirajo na obsodbo.
+Z izbrisom obsodbe prenehajo njene pravne posledice.
+Po prestani, odpuščeni ali zastarani kazni zapora ali mladoletniškega zapora imajo obsojenci vse pravice, ki so določene v ustavi, zakonih in drugih predpisih in lahko pridobivajo vse pravice, razen tistih, ki so jim omejene zaradi izrečenega varnostnega ukrepa ali zaradi nastalih pravnih posledic obsodbe.
+Prejšnji odstavek velja tudi za tiste, ki so na pogojnem odpustu.
+Z zakonsko rehabilitacijo se izbriše obsodba iz kazenske evidence in prenehajo vse njene pravne posledice, obsojenec pa velja za neobsojenega.
+Za obsodbo velja pravnomočna odločba, kakor tudi spremembe te odločbe z amnestijo ali pomilostitvijo.
+Obsodba se izbriše iz kazenske evidence v določenem roku, od kar je bila kazen izvršena, zastarana ali odpuščena, če obsojenec v tem roku ne stori novega kaznivega dejanja.
+za obsodbo na kazen zapora nad deset do petnajst let – petnajst let.
+Obsodba na kazen zapora nad petnajst let se ne izbriše.
+Obsodba se ne more izbrisati iz kazenske evidence, dokler trajajo varnostni ukrepi.
+Sodišče sme na prošnjo obsojenca odločiti, da se obsodba izbriše iz kazenske evidence in da obsojenec velja za neobsojenega, če je potekla polovica z zakonom določenega roka, po preteku katerega se obsodba izbriše, če obsojenec v tem času ni storil novega kaznivega dejanja. Pri odločanju o izbrisu upošteva sodišče vedenje obsojenca po prestani kazni, naravo kaznivega dejanja in druge okoliščine, ki so pomembne za izbris obsodbe.
+Kazenska evidenca obsega: osebne podatke o storilcih kaznivih dejanj; podatke o izrečenih kaznih, varnostnih ukrepih, pogojnih obsodbah, sodnih opominih in obsodbah, s katerimi je bila storilcem kaznivih dejanj, o katerih se vodi kazenska evidenca, oproščena kazen, ter o njihovih pravnih posledicah; poznejše spremembe podatkov o obsodbah, ki so bile vpisane v kazensko evidenco, kakor tudi podatke o izvršeni kazni in o razveljavitvi vpisa neupravičene obsodbe.
+O vzgojnih ukrepih se vodi posebna evidenca, ki obsega osebne podatke o mladoletniku, podatke o izrečenih vzgojnih ukrepih ter podatke o izvršenih vzgojnih ukrepih oziroma druge podatke, ki se nanašajo na izvrševanje vzgojnih ukrepov.
+Podatki iz kazenske evidence se dajejo le za neizbrisane obsodbe sodišču, državnemu tožilstvu in organom za notranje zadeve v zvezi s kazenskim postopkom, ki teče zoper prej obsojeno osebo, organom, pristojnim za izvrševanje kazenskih sankcij, in pristojnim organom, ki sodelujejo v postopku za podelitev amnestije, pomilostitve ali za izbris obsodbe.
+Podatki iz kazenske evidence o neizbrisani obsodbi se smejo dati na obrazloženo zahtevo državnim organom, pravnim osebam in zasebnim delodajalcem le, če še trajajo pravne posledice obsodbe ali varnostni ukrepi ali pa, če imajo upravičen, na zakonu utemeljen interes.
+Posamezniku se sme na njegovo zahtevo dati podatke o tem, da je bil oziroma da ni bil obsojen, samo, če jih potrebuje za uveljavitev svojih pravic.
+Podatki o neizbrisanih sodbah, ki so jih državljanom Republike Slovenije izrekla tuja sodišča, se smejo dati samo organom iz tretjega odstavka tega člena in organom iz 86. člena tega zakonika.
+Določbe o zakonski rehabilitaciji in izbrisu sodbe (103. člen) in o sodni rehabilitaciji (104. člen) se smiselno uporabljajo tudi, kadar gre za sodbo, ki jo je slovenskemu državljanu izreklo tuje sodišče.
+Z ustavo in zakoni zajamčene pravice tistih, proti katerim se izvršujejo kazenske sankcije, se smejo, v skladu z zakonom, odvzeti ali omejiti samo, kolikor je nujno, da se izvrši posamezna kazenska sankcija.
+Oseba, proti kateri se izvršuje kazenska sankcija, ne sme biti podvržena mučenju ali drugi obliki okrutnega, nečloveškega ali ponižujočega ravnanja. V primeru, ko je bila podvržena takšnemu ravnanju, ji mora biti zagotovljeno sodno varstvo.
+Obsojenci prestajajo kazen zapora v zaprtih, polodprtih in odprtih zavodih za prestajanje kazni zapora.
+Obsojenci se razvrščajo v te zavode glede na to, koliko mora biti omejena njihova prostost.
+Če je obsojencu izrečena kazen zapora do treh let, lahko sodišče odredi, da jo prestaja v odprtem zavodu, če mu je izrečena kazen zapora do petih let, pa lahko sodišče odredi, da jo prestaja v polodprtem zavodu.
+Kazen zapora do treh mesecev je mogoče izvršiti tudi tako, da obsojeni namesto kazni zapora opravi v obdobju najdalj šest mesecev delo v korist humanitarnih organizacij ali lokalne skupnosti v obsegu najmanj osemdeset ali največ dvestoštirideset Uradni To delo se razporedi tako, da ne moti obsojenčevih obveznosti iz delovnega razmerja. O obliki takšne izvršitve odloča sodišče, ki je izreklo kazen na prvi stopnji, upoštevajoč pri tem objektivne in subjektivne okoliščine storilca in njegovo privolitev v tak način izvršitve kazni zapora. Če obsojeni ne izpolnjuje nalog, ki izvirajo iz opravljanja dela v korist humanitarnih organizacij ali lokalne skupnosti, lahko sodišče odredi, da se izrečena kazen zapora izvrši.
+Z obsojenci je treba ravnati človeško, spoštovati njihovo osebno dostojanstvo ter varovati njihovo telesno in duševno celovitost.
+Ni dovoljeno uporabljati prevzgojnih, medicinskih ali psiholoških postopkov, ki posegajo v obsojenčevo osebnost, in jih obsojenec upravičeno izrecno zavrača.
+Obsojenec, ki je prestal polovico kazni zapora, sme biti odpuščen s prestajanja kazni s pogojem, da do preteka časa, za katerega je izrečena kazen, ne stori novega kaznivega dejanja.
+Obsojenec, ki mu je sodišče izreklo kazen nad petnajst let zapora, sme biti pogojno odpuščen s prestajanja kazni potem, ko je prestal tri četrtine kazni.
+Organ, ki odloča o pogojnem odpustu, in postopek za odločanje o pogojnem odpustu, določa zakon.
+Obsojenec je lahko pogojno odpuščen, če je mogoče utemeljeno pričakovati, da ne bo ponovil kaznivega dejanja. Pri presoji, ali naj se obsojenec pogojno odpusti, se upoštevajo predvsem povratništvo, morebitni kazenski postopki, ki tečejo zoper obsojenca za kazniva dejanja, izvršena pred nastopom kazni zapora, odnos obsojenca do storjenega kaznivega dejanja in oškodovanca, njegovo vedenje med prestajanjem kazni, uspehi na področju zdravljenja odvisnosti in pogoji za vključitev v življenje na prostosti.
+Izjemoma sme biti pogojno odpuščen tudi obsojenec, ki je prestal le tretjino kazni, če je podan pogoj iz četrtega odstavka tega člena in če posebne okoliščine, ki se nanašajo na obsojenčevo osebnost, kažejo, da ne bo ponovil kaznivega dejanja.
+Starejši mladoletnik, ki prestaja mladoletniški zapor, je lahko pogojno odpuščen, ko prestane tretjino kazni, vendar ne prej, preden ne prebije šestih mesecev v zavodu za prestajanje mladoletniškega zapora. Za čas, ko je na pogojnem odpustu, lahko sodišče odredi nadzorstvo organa socialnega varstva.
+Sodišče prekliče pogojni odpust, če stori obsojenec medtem, ko je na pogojnem odpustu, eno ali več kaznivih dejanj, za katera je izreklo kazen zapora nad eno leto.
+Sodišče lahko prekliče pogojni odpust, če stori pogojno odpuščeni eno ali več kaznivih dejanj, za katera je izreklo kazen zapora do enega leta. Pri presoji, ali naj prekliče pogojni odpust, upošteva sodišče zlasti sorodnost storjenih kaznivih dejanj, njihov pomen, nagibe, iz katerih so bila storjena, in druge okoliščine, ki kažejo, da je preklic pogojnega odpusta utemeljen.
+Kadar sodišče prekliče pogojni odpust, izreče kazen po 47. in drugem odstavku 48. člena tega zakonika; pri tem vzame kot določen tisti del prej izrečene kazni, ki je obsojenec še ni prestal.
+Določbe prvega, drugega in tretjega odstavka tega člena se uporabljajo tudi, kadar obsodi sodišče pogojno odpuščenega za dejanje, ki ga je storil, preden je bil pogojno odpuščen.
+Če je pogojno odpuščeni obsojen na kazen zapora do enega leta in sodišče ne prekliče pogojnega odpusta, se pogojni odpust podaljša za čas, ko je obsojenec prestajal kazen zapora.
+Če stori obsojenec v času pogojnega odpusta kaznivo dejanje, ki ima za posledico preklic pogojnega odpusta, pa se to s sodbo ugotovi šele po njegovem preteku, se sme pogojni odpust preklicati najpozneje v enem letu, odkar je čas pogojnega odpusta pretekel.
+tri leta od storitve kaznivega dejanja, za katero se sme po zakonu izreči zapor do enega leta ali denarna kazen.
+Če je za kaznivo dejanje predpisanih več kazni, se zastaralni rok določi po najhujši predpisani kazni.
+Ne glede na določbe prvega odstavka tega člena v primerih kaznivih dejanj zoper spolno nedotakljivost in kaznivih dejanj zoper zakonsko zvezo, družino in mladino, storjenih proti mladoletni osebi, rok za zastaranje kazenskega pregona ne more izteči pred potekom petih let od polnoletnosti oškodovanca.
+Zastaranje kazenskega pregona se začne tistega dne, ko je bilo kaznivo dejanje storjeno.
+Zastaranje ne teče v času, ko se po zakonu pregon ne sme začeti ali nadaljevati.
+Zastaranje pretrga vsako procesno dejanje za pregon storilca zaradi storjenega kaznivega dejanja.
+Zastaranje se pretrga tudi tedaj, če stori storilec v času, ko teče zastaralni rok, enako hudo ali hujše kaznivo dejanje.
+Po vsakem pretrganju se začne zastaranje znova.
+Kazenski pregon zastara v vsakem primeru, če preteče dvakrat toliko časa, kolikor ga zahteva zakon za zastaranje kazenskega pregona.
+tri leta od obsodbe na zapor do enega leta ali na denarno kazen.
+tri leta od obsodbe na mladoletniški zapor do treh let.
+Izvršitev denarne kazni kot stranske kazni zastara, ko pretečeta dve leti od pravnomočnosti sodbe, s katero je bila ta kazen izrečena.
+Izvršitev prepovedi vožnje motornega vozila in izgon tujca iz države kot stranskih kazni zastara, ko zastara glavna kazen.
+Izvršitev varnostnih ukrepov obveznega psihiatričnega zdravljenja in varstva v zdravstvenem zavodu, obveznega psihiatričnega zdravljenja na prostosti, odvzema vozniškega dovoljenja in odvzema predmetov zastara, ko pretečejo tri leta od pravnomočnosti odločbe, s katero so bili ti ukrepi izrečeni.
+Izvršitev varnostnega ukrepa obveznega zdravljenja alkoholikov in narkomanov zastara hkrati s kaznijo, ob kateri je bil ta ukrep izrečen, oziroma s potekom preizkusne dobe določene v pogojni obsodbi.
+Izvršitev varnostnega ukrepa prepovedi opravljanja poklica zastara, ko preteče čas, za katerega je bil ukrep izrečen.
+Zastaranje izvršitve kazni se začne tistega dne, ko postane sodba pravnomočna; če je pogojna obsodba preklicana, pa tistega dne, ko postane pravnomočna odločba o preklicu.
+Zastaranje ne teče v času, ko se po zakonu kazen ne sme izvršiti.
+Zastaranje pretrga vsako dejanje pristojnega organa, ki mu je namen izvršitev kazni.
+Po vsakem pretrganju se začne zastaranje znova.
+Izvršitev kazni zastara v vsakem primeru, ko preteče dvakrat toliko časa, kolikor ga zahteva zakon za zastaranje izvršitve kazni.
+Določbe od drugega do petega odstavka tega člena veljajo smiselno tudi za zastaranje izvršitve varnostnih ukrepov.
+Kazenski pregon in izvršitev kazni ne zastarata za kazniva dejanja iz členov 373 do 378 tega zakonika, kot tudi ne za tista kazniva dejanja, za katera po mednarodnih pogodbah zastaranje ne more nastopiti.
+Z amnestijo se osebam, ki so je deležne, odpusti pregon, popolnoma ali delno odpusti izvršitev kazni, izrečena kazen spremeni v milejšo, izbriše obsodba ali odpravi določena pravna posledica obsodbe.
+Če se z amnestijo spremeni odločba o kazenski sankciji, se uporabijo določbe splošnega dela tega zakonika.
+S pomilostitvijo se po imenu določeni osebi odpusti pregon ali popolnoma ali delno odpusti izvršitev kazni, izrečena kazen spremeni v milejšo ali v pogojno obsodbo ali izbriše obsodba ali odpravi oziroma skrajša trajanje določene pravne posledice obsodbe.
+Če se s pomilostitvijo spremeni odločba o kazenski sankciji, se uporabijo določbe splošnega dela tega zakonika.
+Z amnestijo ali pomilostitvijo niso prizadete tiste pravice drugih, ki se opirajo na obsodbo.
+Kazenski zakon Republike Slovenije velja za vsakogar, kdor stori kaznivo dejanje na ozemlju Republike Slovenije.
+Kazenski zakon Republike Slovenije velja tudi za vsakogar, kdor stori kaznivo dejanje na domači ladji, ne glede na to, kje je bila ladja ob storitvi dejanja.
+Kazenski zakon Republike Slovenije velja tudi za vsakogar, kdor stori kaznivo dejanje na domačem civilnem letalu med poletom ali na domačem vojaškem letalu, ne glede na to, kje je bilo letalo ob storitvi dejanja.
+Ta zakonik velja za vsakogar, kdor stori v tujini kaznivo dejanje iz 249. člena tega zakonika, če se ponarejanje nanaša na domač denar ter katero izmed kaznivih dejanj iz 348. do 362. člena tega zakonika.
+Kazenski zakon Republike Slovenije velja za državljana Republike Slovenije tudi, če stori v tujini kakšno drugo kaznivo dejanje, poleg kaznivih dejanj, naštetih v prejšnjem členu, če se zaloti na ozemlju Republike Slovenije ali če se ji izroči.
+Kazenski zakon Republike Slovenije velja tudi za tujca, ki stori zunaj Republike Slovenije, proti njej ali proti njenemu državljanu kaznivo dejanje, čeprav ne gre pri tem za kazniva dejanja, našteta v 121. členu tega zakonika, če se zaloti na ozemlju Republike Slovenije ali če se ji izroči.
+Kazenski zakon Republike Slovenije velja tudi za tujca, ki stori proti tuji državi ali proti tujcu v tujini kaznivo dejanje, če se zaloti na ozemlju Republike Slovenije, pa se ne izroči tuji državi. V takem primeru sodišče ne sme izreči hujše kazni od tiste, ki je predpisana z zakonom države, v kateri je bilo kaznivo dejanje storjeno.
+Če se je v primeru iz 120. člena tega zakonika začel ali končal kazenski postopek v tuji državi, se storilec preganja v Republiki Sloveniji samo z dovoljenjem ministra za pravosodje.
+če se za kaznivo dejanje po tujem zakonu preganja na zahtevo oškodovanca, takšna zahteva pa ni bila vložena.
+V primerih iz 122. in 123. člena tega zakonika se storilec preganja samo, če je dejanje kaznivo tudi po zakonu države, v kateri je bilo storjeno.
+Če gre v primeru iz 122. člena tega zakonika za dejanje, ki po zakonu države, v kateri je bilo storjeno, ni kaznivo, gre pa za dejanje storjeno proti Republiki Sloveniji ali njenemu državljanu, se sme storilec preganjati samo z dovoljenjem ministra za pravosodje.
+Če v primeru iz prejšnjega člena tega zakonika dejanje po zakonu države, v kateri je bilo storjeno, ni kaznivo, se sme storilec preganjati v Republiki Sloveniji le z dovoljenjem ministra za pravosodje in če gre za dejanje, ki je takrat, ko je bilo storjeno, veljalo za kaznivo dejanje po splošnih pravnih načelih, priznanih od mednarodne skupnosti.
+V primeru iz 120. člena tega zakonika se sme ob pogojih, ki jih določa zakon, pregon tujca odstopiti drugi državi.
+Pripor, odvzem prostosti med izročitvenim postopkom ter kazen, ki jo je storilec po sodbi tujega sodišča že prestal, se vštejejo v kazen, ki jo izreče za isto kaznivo dejanje domače sodišče; če kazni niso iste vrste, presodi sodišče, kako naj se kazen všteje.
+Ozemlje Republike Slovenije obsega: kopno ozemlje, obalno morje in vodne površine znotraj njenih meja ter zračni prostor nad njimi.
+oseba, ki pri mednarodnem sodišču opravlja sodniško, tožilsko ali drugo uradno dolžnost ali funkcijo.
+Za vojaško osebo po tem zakoniku se štejejo: oseba, ki poklicno opravlja vojaško službo, vojak, ki služi vojaški rok ter vojaški obveznik rezervne sestave, kadar opravlja vojaško službo.
+Za volitve in glasovanje po tem zakoniku se štejejo volitve predsednika republike, poslancev državnega zbora, članov državnega sveta, lokalne volitve ter zakonodajni referendumi, referendumi za potrditev spremembe ustave in za ustanovitev občine.
+vodenje in sodelovanje pri upravljanju, zastopanju in nadzorstvu v prejšnjih točkah navedenih dejavnosti.
+Za zunajzakonsko skupnost po tem zakoniku se šteje dalj časa trajajoča življenjska skupnost moškega in ženske, ki nista sklenila zakonske zveze.
+Listina je vsako pisanje, nosilec podatkov, ali drugi predmet primeren in namenjen za dokaz kakšnega dejstva, ki ima vrednost za pravna razmerja.
+Denar je kovan ali papirnat denar, ki je na podlagi zakona v obtoku v Republiki Sloveniji ali v tuji državi.
+Za vrednotnice po tem zakoniku se štejejo kolki, in druge vrednotnice, izdane in v obtoku na podlagi zakona Republike Slovenije, ter tuje vrednotnice.
+Za premično stvar po tem zakoniku se šteje tudi vsaka pridobljena ali zbrana energija za svetlobo, toploto, pogon, premikanje ali prenos glasu, slike ali besedila na daljavo, ali računalniška zmogljivost.
+Za silo se šteje tudi uporaba hipnoze ali mamil za to, da se kdo proti njegovi volji spravi v nezavest ali onesposobi za odpor.
+Za motorno vozilo se šteje vsako prometno sredstvo na motorni pogon v kopnem, vodnem in zračnem prometu.
+Za veliko premoženjsko korist, škodo ali vrednost se šteje znesek, ki presega petdeset povprečnih neto plač na zaposleno osebo.
+Za mamila po tem zakoniku se štejejo prepovedane droge, določene v posebnem zakonu in uvrščene v seznam prepovedanih drog.
+Hudodelska združba po tem zakoniku je skupina najmanj treh oseb, ki so se združile za izvrševanje kaznivih dejanj, za katera se sme izreči kazen več kot treh let zapora.
+Kdor komu vzame življenje, se kaznuje z zaporom najmanj petih let.
+če stori dejanje dvoje ali več oseb, ki so se združile za to, da bi izvršile umor.
+Če je bilo dejanje iz prvega odstavka tega člena storjeno v posebno olajševalnih okoliščinah, se storilec kaznuje z zaporom od šestih mesecev do petih let.
+Kdor koga ubije na mah, ker ga je ta brez njegove krivde z napadom ali hudimi žalitvami močno razdražil, se kaznuje z zaporom od enega do desetih let.
+Kdor povzroči smrt drugega iz malomarnosti, se kaznuje z zaporom od šestih mesecev do petih let.
+Mati, ki vzame življenje svojemu otroku med porodom ali takoj po porodu, dokler je še pod njegovim vplivom, se kaznuje z zaporom do treh let.
+Kdor koga naklepoma napelje k samomoru ali mu pomaga pri samomoru in ta stori samomor, se kaznuje z zaporom od šestih mesecev do petih let.
+Kdor stori dejanje iz prejšnjega odstavka proti mladoletni osebi, ki je že stara štirinajst let, ali proti osebi, katere sposobnost razumeti pomen svojega dejanja ali imeti v oblasti svoje ravnanje je bila bistveno zmanjšana, se kaznuje z zaporom od enega do desetih let.
+Če je dejanje iz prvega odstavka tega člena storjeno proti mladoletni osebi, ki še ni stara štirinajst let, ali proti osebi, ki ni mogla razumeti pomena svojega dejanja ali imeti v oblasti svojega ravnanja, se storilec kaznuje kot za umor.
+Kdor surovo ali nečloveško ravna s kom, ki mu je podrejen ali od njega odvisen, in ta zaradi takega ravnanja stori samomor, se kaznuje z zaporom od šestih mesecev do petih let.
+Kdor komu pomaga pri samomoru in ta stori samomor, pa so pri tem podane posebne olajševalne okoliščine, se kaznuje z zaporom do treh let.
+Če je bil zaradi kakšnega dejanja iz prejšnjih odstavkov samomor samo poskušen, sme sodišče storilca kaznovati mileje.
+Kdor v nasprotju z zdravstvenimi pogoji in načinom umetne prekinitve nosečnosti, ki so določeni z zakonom, noseči ženski z njeno privolitvijo prekine nosečnost, začne prekinjati ali ji pomaga pri prekinitvi nosečnosti, se kaznuje z zaporom do treh let.
+Kdor noseči ženski brez njene privolitve prekine ali začne prekinjati nosečnost, se kaznuje z zaporom od enega do osmih let.
+Kdor koga tako telesno poškoduje, da je bil zaradi tega začasno okvarjen ali oslabljen kakšen del njegovega telesa ali njegov organ, ali je poškodovančeva zmožnost za delo začasno zmanjšana, ali je prizadeta njegova zunanjost, ali je začasno okvarjeno njegovo zdravje, se kaznuje z denarno kaznijo ali z zaporom do enega leta.
+Če je poškodba iz prejšnjega odstavka prizadejana z orožjem, nevarnim orodjem, z drugim sredstvom ali na tak način, s katerim se lahko telo hudo poškoduje ali zdravje hudo okvari, se storilec kaznuje z zaporom do treh let.
+Sodišče sme storilcu dejanja iz prejšnjega odstavka izreči sodni opomin zlasti v primeru, če je bil storilec izzvan z nedostojnim ali surovim obnašanjem poškodovanca.
+Pregon za dejanje iz prvega odstavka tega člena se začne na predlog.
+Kdor koga tako telesno poškoduje ali mu prizadene takšno škodo na zdravju, da bi bilo lahko zaradi tega v nevarnosti življenje poškodovanca, ali je uničen ali za vselej in znatno oslabljen kakšen del njegovega telesa ali kak organ, ali je začasno in znatno oslabljen pomemben del telesa ali pomemben organ, ali je zaradi tega poškodovani začasno nezmožen za vsakršno delo, ali je njegova zmožnost za delo za vselej zmanjšana ali je bila začasno znatno zmanjšana, ali je bil začasno skažen, ali mu je začasno hudo ali za vselej v manjši meri okvarjeno zdravje, se kaznuje z zaporom od šestih mesecev do petih let.
+Če poškodovani zaradi poškodbe iz prejšnjega odstavka umre, se storilec kaznuje z zaporom od enega do desetih let.
+Kdor stori dejanje iz prvega odstavka tega člena iz malomarnosti, se kaznuje z zaporom do dveh let.
+Če je storilec dejanje iz prvega ali drugega odstavka tega člena storil na mah, ker ga je poškodovanec brez njegove krivde z napadom ali hudimi žalitvami močno razdražil, se kaznuje z zaporom do treh let.
+Kdor koga tako hudo telesno poškoduje ali mu prizadene tako hudo škodo na zdravju, da je bilo zaradi tega v nevarnosti življenje poškodovanca, ali je uničen ali za vselej in znatno oslabljen pomemben del njegovega telesa ali pomemben organ, ali je postal poškodovani zaradi tega za vselej nezmožen za vsakršno delo, ali je ostal skažen, ali mu je bilo za vselej hudo okvarjeno zdravje, se kaznuje z zaporom od enega do desetih let.
+Če poškodovani zaradi poškodbe iz prejšnjega odstavka umre, se storilec kaznuje z zaporom najmanj treh let.
+Kdor stori dejanje iz prvega odstavka tega člena iz malomarnosti, se kaznuje z zaporom do treh let.
+Če je storilec dejanje iz prvega ali drugega odstavka tega člena storil na mah, ker ga je poškodovanec brez njegove krivde z napadom ali hudimi žalitvami močno razdražil, se kaznuje z zaporom od šestih mesecev do petih let.
+Kdor sodeluje pri pretepu, v katerem je kdo ubit ali hudo telesno poškodovan, se za samo sodelovanje kaznuje z zaporom do enega leta.
+Kdor pri pretepu ali prepiru seže po orožju, nevarnem orodju ali po kakšnem drugem sredstvu, s katerim se lahko telo hudo poškoduje ali zdravje hudo okvari, se kaznuje z denarno kaznijo ali z zaporom do šestih mesecev.
+Pregon se začne na predlog.
+Kdor pusti koga brez pomoči v smrtni nevarnosti, ki jo je sam povzročil, se kaznuje z zaporom do dveh let.
+Kdor pusti osebo, ki mu je bila zaupana ali za katero je sicer dolžan skrbeti, brez pomoči v razmerah, ki so nevarne za življenje ali zdravje, se kaznuje z zaporom do dveh let.
+Kdor ne pomaga komu, ki je v neposredni smrtni nevarnosti, čeprav bi to lahko storil brez nevarnosti zase ali za koga drugega, se kaznuje z zaporom do enega leta.
+Kdor zaradi razlike v narodnosti, rasi, barvi, veroizpovedi, etnični pripadnosti, spolu, jeziku, političnem ali drugačnem prepričanju, spolni usmerjenosti, gmotnem stanju, rojstvu, izobrazbi, družbenem položaju ali kakšni drugi okoliščini prikrajša koga za katero izmed človekovih pravic ali temeljnih svoboščin, ki so priznane od mednarodne skupnosti ali določene z ustavo ali zakonom, ali mu takšno pravico ali svoboščino omeji, ali kdor na podlagi takšnega razlikovanja komu da kakšno posebno pravico ali ugodnost, se kaznuje z denarno kaznijo ali z zaporom do enega leta.
+Enako se kaznuje, kdor preganja posameznika ali organizacijo zaradi njihovega zavzemanja za enakopravnost ljudi.
+Če stori dejanje iz prvega ali drugega odstavka tega člena uradna oseba z zlorabo uradnega položaja ali uradnih pravic, se kaznuje z zaporom do treh let.
+Kdor koga s silo ali z resno grožnjo prisili, da kaj stori ali opusti ali da kaj trpi, se kaznuje z zaporom do enega leta.
+Pregon se začne na predlog.
+Kdor koga protipravno zapre, ima zaprtega ali mu kako drugače omeji svobodo gibanja, se kaznuje z zaporom do enega leta.
+Če stori dejanje iz prejšnjega odstavka uradna oseba z zlorabo svojega položaja ali svojih pravic, se kaznuje z zaporom do treh let.
+Poskus dejanja iz prvega odstavka tega člena je kazniv.
+Kdor komu protipravno odvzame prostost za več kot teden dni ali če to stori na grozovit način, se kaznuje z zaporom od treh mesecev do petih let.
+Kdor ugrabi koga z namenom, da njega ali koga drugega prisili, da nekaj stori, opusti ali trpi, se kaznuje z zaporom od šestih mesecev do petih let.
+Kdor stori dejanje iz prejšnjega odstavka proti mladoletni osebi ali zagrozi z umorom ali s hudo telesno poškodbo ugrabljene osebe, se kaznuje z zaporom od enega do desetih let.
+Storilec dejanj iz prvega ali drugega odstavka tega člena, ki prostovoljno spusti na prostost ugrabljeno osebo, preden je izpolnjena njegova zahteva, zaradi katere jo je ugrabil, se sme kaznovati mileje ali se mu sme kazen odpustiti.
+Kdor ogrozi varnost kakšne osebe z resno grožnjo, da bo napadel njeno življenje ali telo, se kaznuje z denarno kaznijo ali z zaporom do enega leta.
+Pregon se začne na predlog.
+Kdor z grdim ravnanjem prizadene telesno ali duševno celovitost drugega, se kaznuje z denarno kaznijo ali z zaporom do šestih mesecev.
+Pregon se začne na predlog.
+Kdor neupravičeno preišče drugega ali stvari, ki jih ima ta na sebi ali s seboj, se kaznuje z denarno kaznijo ali z zaporom do enega leta.
+Če stori dejanje iz prejšnjega odstavka uradna oseba z zlorabo uradnega položaja ali uradnih pravic, se kaznuje z zaporom do dveh let.
+Poskus dejanj iz prvega in drugega odstavka tega člena je kazniv.
+Pregon za dejanje iz prvega odstavka tega člena se začne na predlog.
+Kdor neupravičeno s posebnimi napravami prisluškuje pogovoru ali izjavi, ki mu nista namenjena, ali ju zvočno snema, ali kdor takšen pogovor ali takšno izjavo neposredno prenaša tretji osebi, ali ji takšen posnetek predvaja ali kako drugače omogoči, da se z njim neposredno seznani, se kaznuje z denarno kaznijo ali z zaporom do enega leta.
+Enako se kaznuje, kdor zvočno snema njemu namenjeno zaupno izjavo drugega brez njegove privolitve z namenom, da bi takšno izjavo zlorabil, ali kdor takšno izjavo neposredno prenaša tretji osebi ali ji takšen posnetek predvaja ali ji kako drugače omogoči, da se z njim neposredno seznani.
+Če stori dejanje iz prvega ali drugega odstavka tega člena uradna oseba z zlorabo uradnega položaja ali uradnih pravic ali poskusi to storiti, se kaznuje z zaporom od treh mesecev do petih let.
+Pregon za dejanje iz prvega odstavka tega člena se začne na predlog, za dejanje iz drugega odstavka pa na zasebno tožbo.
+Kdor neupravičeno slikovno snema ali naredi slikovni posnetek drugega ali njegovih prostorov brez njegove privolitve in pri tem občutno poseže v njegovo zasebnost, ali kdor takšno snemanje neposredno prenaša tretji osebi ali ji takšen posnetek prikazuje ali ji kako drugače omogoči, da se z njim neposredno seznani, se kaznuje z denarno kaznijo ali z zaporom do enega leta.
+Če stori dejanje iz prejšnjega odstavka uradna oseba z zlorabo uradnega položaja ali uradnih pravic ali poskusi to storiti, se kaznuje z zaporom od treh mesecev do petih let.
+Pregon za dejanje iz prvega odstavka tega člena se začne na predlog.
+Kdor neupravičeno odpre tuje pismo, tujo brzojavko ali kakšno drugo tuje zaprto pisanje ali pošiljko, se kaznuje z denarno kaznijo ali z zaporom do šestih mesecev.
+kdor neupravičeno odpre zaprt predmet, ki varuje sporočilo, in se neupravičeno seznani s sporočilom v njem.
+Enako se kaznuje, kdor s katerim izmed dejanj, ki so navedena v prvem in drugem odstavku tega člena, omogoči drugemu, da se neposredno seznani z vsebino sporočila ali pošiljke.
+Kdor neupravičeno obdrži, skrije, uniči ali komu drugemu izroči tuje pismo, brzojavko ali kakšno drugo pošiljko, preden se je prejemnik seznanil z njeno vsebino, se kaznuje z denarno kaznijo ali z zaporom do enega leta.
+Če stori dejanje iz prejšnjih odstavkov tega člena uradna oseba z zlorabo uradnega položaja ali uradnih pravic, poštni ali drug delavec, ki mu je zaupano prevzemanje, prenos ali predaja tujih pisem, tujih brzojavk ali kakšnih drugih pisanj ali pošiljk, se kaznuje z zaporom od treh mesecev do petih let.
+Pregon za dejanja iz prvega do četrtega odstavka tega člena se začne na predlog.
+Kdor brez dovoljenja pooblaščene osebe v primerih, kadar je tako dovoljenje potrebno, objavi dnevnik, pismo ali kakšno drugo zasebno pisanje, se kaznuje z denarno kaznijo ali z zaporom do enega leta.
+Pregon se začne na zasebno tožbo.
+Kdor neupravičeno vstopi v tuje stanovanje ali zaprte prostore, ali kdor se na zahtevo upravičenca od tam ne odstrani, se kaznuje z denarno kaznijo ali z zaporom do enega leta.
+Enako se kaznuje, kdor neupravičeno preišče stanovanje ali prostore iz prvega odstavka tega člena.
+Če stori dejanje iz prvega ali drugega odstavka tega člena uradna oseba z zlorabo uradnega položaja ali uradnih pravic, se kaznuje z zaporom od treh mesecev do petih let.
+Poskus dejanj iz prvega, drugega in tretjega odstavka tega člena je kazniv.
+Pregon za dejanji iz prvega in drugega odstavka tega člena se začne na predlog.
+Kdor neupravičeno izda skrivnost, za katero je zvedel kot zagovornik, odvetnik, zdravnik, duhovnik, socialni delavec, psiholog ali kot kakšna druga oseba pri opravljanju svojega poklica, se kaznuje z denarno kaznijo ali z zaporom do enega leta.
+Za dejanje iz prejšnjega odstavka se ne kaznuje, kdor izda skrivnost zaradi splošne koristi ali zaradi koristi koga drugega, če je ta korist večja kakor pa ohranitev skrivnosti.
+Pregon se začne na zasebno tožbo.
+Kdor v nasprotju z zakonom uporabi osebne podatke, ki se smejo voditi samo na podlagi zakona ali na podlagi osebne privolitve posameznika, na katerega se osebni podatki nanašajo, se kaznuje z denarno kaznijo ali z zaporom do enega leta.
+Enako se kaznuje, kdor vdre v računalniško vodeno zbirko podatkov z namenom, da bi sebi ali komu drugemu pridobil kakšen osebni podatek.
+Če stori dejanje iz prvega ali drugega odstavka tega člena uradna oseba z zlorabo uradnega položaja ali uradnih pravic, se kaznuje z zaporom do dveh let.
+Kdor pri opravljanju svojega dela prepreči drugemu, da bi uporabil svojo pravico do pritožbe, ugovora ali kakšnega drugega pravnega sredstva, do vloge ali predloga, ali da bi dal politične ali druge pobude splošnega pomena, se kaznuje z denarno kaznijo ali z zaporom do enega leta.
+Če stori dejanje iz prejšnjega odstavka uradna oseba z zlorabo svojega položaja ali pravic, se kaznuje z zaporom do dveh let.
+Kdor s silo, resno grožnjo, preslepitvijo ali kako drugače protipravno prepreči ali ovira sklicanje ali potek mirnega javnega shoda, se kaznuje z denarno kaznijo ali z zaporom do enega leta.
+Če stori dejanje iz prvega odstavka tega člena uradna oseba z zlorabo svojega uradnega položaja ali uradnih pravic, se kaznuje z zaporom do dveh let.
+Kdor protipravno prepreči tiskanje, prodajo ali razširjanje časopisa, knjige ali druge tiskane stvari, ali oddajanje radijskega ali televizijskega programa, se kaznuje z denarno kaznijo ali z zaporom do enega leta.
+Kdor s svojim imenom ali z imenom koga drugega objavi, prikaže, izvede ali prenese tuje avtorsko delo ali njegov del, ali dovoli to storiti, se kaznuje z denarno kaznijo ali z zaporom do enega leta.
+Kdor skazi, okrni ali kako drugače neupravičeno poseže v tuje avtorsko delo, se kaznuje z denarno kaznijo ali z zaporom do šestih mesecev.
+Pregon se začne na predlog.
+Kdor neupravičeno uporabi eno ali več avtorskih del ali njihovih primerkov, katerih skupna tržna cena pomeni večjo premoženjsko vrednost, se kaznuje z zaporom do treh let.
+Če tržna cena avtorskih del iz prejšnjega odstavka pomeni veliko premoženjsko vrednost, se storilec kaznuje z zaporom do petih let.
+Če je bila z dejanjem iz prvega ali drugega odstavka tega člena pridobljena velika protipravna premoženjska korist in je šlo storilcu za to, da sebi ali komu drugemu pridobi takšno premoženjsko korist, se kaznuje z zaporom od enega do osmih let.
+Primerki avtorskih del in naprave za njihovo reproduciranje se vzamejo.
+Kdor neupravičeno reproducira, da na voljo javnosti, razširja ali da v najem eno ali več izvedb, fonogramov, videogramov, RTV oddaj ali podatkovnih baz, katerih skupna tržna cena pomeni večjo premoženjsko vrednost, se kaznuje z zaporom do treh let.
+Kdor neupravičeno reproducira, da na voljo javnosti, razširja ali da v najem eno ali več izvedb, fonogramov, videogramov, RTV oddaj ali podatkovnih baz, katerih skupna tržna cena pomeni veliko premoženjsko vrednost, se kaznuje z zaporom do petih let.
+Če je bila z dejanjem iz prvega ali drugega odstavka tega člena pridobljena velika protipravna premoženjska korist in je šlo storilcu za to, da sebi ali komu drugemu pridobi takšno premoženjsko korist, se kaznuje z zaporom od enega do osmih let.
+Primerki izvedb, fonogramov, videogramov, RTV oddaj ali podatkovnih baz in naprave za njihovo reproduciranje se vzamejo.
+Uradna oseba, ki koga z namenom, da bi mu onemogočila izvrševanje volilne pravice, nezakonito ne vpiše v volilni imenik, ali ga črta iz volilnega imenika, se kaznuje z denarno kaznijo ali z zaporom do enega leta.
+Kdor koga s silo, z resno grožnjo, s podkupovanjem, s preslepitvijo ali na drug nedovoljen način prisili ali nanj vpliva, da pri volitvah ali glasovanju glasuje, ali ne glasuje, ali da ne glasuje veljavno, ali da glasuje za ali proti določenemu predlogu, se kaznuje z denarno kaznijo ali z zaporom do enega leta.
+Če stori dejanje iz prejšnjega odstavka uradna oseba pri opravljanju svoje dolžnosti v zvezi z volitvami ali glasovanjem, se kaznuje z zaporom do dveh let.
+Dana podkupnina se vzame.
+Kdor pri volitvah ali glasovanju glasuje namesto drugega pod njegovim imenom, ali več kot enkrat glasuje pri istem glasovanju, se kaznuje z denarno kaznijo ali z zaporom do enega leta.
+Kdor pokliče glasovalca pri volitvah ali glasovanju na odgovor zaradi glasovanja, ali od njega zahteva, naj pove, kako je glasoval ali zakaj ni glasoval, se kaznuje z denarno kaznijo ali z zaporom do enega leta.
+Kdor pri volitvah ali glasovanju uniči, poškoduje, prikrije ali ponaredi kakšno listino o volitvah ali glasovanju ali kakršenkoli predmet, ki je dokaz za ugotavljanje izida volitev ali glasovanja, se kaznuje z denarno kaznijo ali z zaporom do enega leta.
+Če stori dejanje iz prejšnjega odstavka uradna oseba pri opravljanju svoje dolžnosti v zvezi z volitvami ali glasovanjem, se kaznuje z zaporom do dveh let.
+Uradna oseba, ki pri volitvah ali glasovanju spremeni število oddanih glasov z dodajanjem ali odvzemanjem glasovnic ali glasov pri štetju, ali objavi izid volitev ali glasovanja, ki se ne ujema z opravljenim glasovanjem, se kaznuje z zaporom do dveh let.
+Kdor kakorkoli prekrši tajnost glasovanja pri volitvah ali glasovanju, se kaznuje z denarno kaznijo ali z zaporom do šestih mesecev.
+Če stori dejanje iz prejšnjega odstavka uradna oseba pri opravljanju svojih dolžnosti v zvezi z volitvami ali glasovanjem, se kaznuje z zaporom do dveh let.
+Kdor za to, da pri volitvah ali glasovanju ne glasuje, ali da glasuje za določen predlog ali proti njemu ali da ne glasuje veljavno, terja ali sprejme nagrado, darilo ali kakšno drugo premoženjsko ali nepremoženjsko korist zase ali za koga drugega, se kaznuje z denarno kaznijo ali z zaporom do enega leta.
+Sprejeta nagrada, darilo ali druga premoženjska korist se vzamejo.
+Kdor koga razžali, se kaznuje z denarno kaznijo ali z zaporom do treh mesecev.
+Če je dejanje iz prejšnjega odstavka storjeno s tiskom, po radiu, televiziji ali z drugim sredstvom javnega obveščanja ali na javnem shodu, se storilec kaznuje z denarno kaznijo ali z zaporom do šestih mesecev.
+Ne kaznuje se, kdor se o kom žaljivo izrazi v znanstvenem, književnem ali umetniškem delu, v resni kritiki, pri izvrševanju uradne dolžnosti, časnikarskega poklica, politične ali druge družbene dejavnosti, pri obrambi kakšne pravice ali pri varstvu upravičenih koristi, če se iz načina izražanja ali iz drugih okoliščin vidi, da tega ni storil z namenom zaničevanja.
+Če je razžaljenec razžalitev vrnil, sme sodišče obe stranki ali eno izmed njiju kaznovati ali kazen odpustiti.
+Kdor o kom trdi ali raznaša kaj neresničnega, kar lahko škoduje njegovi časti ali dobremu imenu, čeprav ve, da je to, kar trdi ali raznaša, neresnično, se kaznuje z denarno kaznijo ali z zaporom do šestih mesecev.
+Če je dejanje iz prejšnjega odstavka storjeno s tiskom, po radiu, televiziji ali z drugim sredstvom javnega obveščanja ali na javnem shodu, se storilec kaznuje z denarno kaznijo ali z zaporom do enega leta.
+Če je tisto, kar se neresnično trdi ali raznaša, take narave, da ima hude posledice za oškodovanca, se storilec kaznuje z zaporom do dveh let.
+Kdor o kom trdi ali raznaša kaj, kar lahko škoduje njegovi časti ali dobremu imenu, se kaznuje z denarno kaznijo ali z zaporom do treh mesecev.
+Če je dejanje iz prejšnjega odstavka storjeno s tiskom, po radiu, televiziji ali z drugim sredstvom javnega obveščanja ali na javnem shodu, se storilec kaznuje z denarno kaznijo ali z zaporom do šestih mesecev.
+Če je tisto, kar se trdi ali raznaša, take narave, da ima hude posledice za oškodovanca, se storilec kaznuje z denarno kaznijo ali z zaporom do enega leta.
+Če dokaže resničnost svoje trditve ali če dokaže, da je imel utemeljen razlog verjeti v resničnost tistega, kar je trdil ali raznašal, se storilec ne kaznuje za žaljivo obdolžitev, lahko pa se kaznuje za razžalitev (169. člen) ali za očitanje kaznivega dejanja z namenom zaničevanja (173. člen).
+Če kdo za koga trdi ali raznaša, da je storil kaznivo dejanje, za katero se storilec preganja po uradni dolžnosti, se sme resničnost, da je oškodovanec storil kaznivo dejanje, dokazovati le s pravnomočno sodbo, z drugimi dokazi pa le tedaj, če pregon ali sojenje nista mogoča ali nista dovoljena.
+Če je bila žaljiva obdolžitev, da je oškodovanec storil kaznivo dejanje, za katero se storilec preganja po uradni dolžnosti, storjena v okoliščinah iz tretjega odstavka 169. člena tega zakonika, se storilec ne kaznuje za žaljivo obdolžitev, čeprav ni pravnomočne sodbe, če dokaže, da je imel utemeljen razlog verjeti v resničnost tistega, kar je trdil ali raznašal.
+Kdor trdi ali raznaša kaj iz osebnega ali družinskega življenja kakšne osebe, kar lahko škoduje njenemu dobremu imenu, se kaznuje z denarno kaznijo ali z zaporom do treh mesecev.
+Če je dejanje iz prejšnjega odstavka storjeno s tiskom, po radiu, televiziji ali z drugim sredstvom javnega obveščanja ali na javnem shodu, se storilec kaznuje z denarno kaznijo ali z zaporom do šestih mesecev.
+Če je tisto, kar kdo trdi ali raznaša, take narave, da ima hude posledice za oškodovanca, se storilec kaznuje z denarno kaznijo ali z zaporom do enega leta.
+Resničnosti ali neresničnosti tistega, kar se trdi ali raznaša iz osebnega ali družinskega življenja koga drugega, ni mogoče dokazovati, razen v primerih iz petega odstavka tega člena.
+Kdor trdi ali raznaša kaj iz osebnega ali družinskega življenja drugega pri izvrševanju uradne dolžnosti, politične ali druge družbene dejavnosti, pri obrambi kakšne pravice ali pri varstvu upravičenih koristi, se ne kaznuje, če dokaže resničnost svoje trditve ali če dokaže, da je imel utemeljen razlog verjeti v resničnost tistega, kar je trdil ali raznašal.
+Kdor z namenom zaničevanja komu očita, da je storil kaznivo dejanje ali da je bil obsojen zaradi kaznivega dejanja, ali to z istim namenom komu pove, se kaznuje z denarno kaznijo ali z zaporom do treh mesecev.
+Če je dejanje iz prejšnjega odstavka storjeno s tiskom, po radiu, televiziji ali z drugim sredstvom javnega obveščanja ali na javnem shodu, se storilec kaznuje z denarno kaznijo ali z zaporom do šestih mesecev.
+Kdor javno stori dejanje iz členov 169 do 173 tega zakonika proti Republiki Sloveniji ali predsedniku republike v zvezi z opravljanjem njegove funkcije, se kaznuje z denarno kaznijo ali z zaporom do enega leta.
+Enako se kaznuje, kdor javno sramoti zastavo, grb ali himno Republike Slovenije.
+Kdor javno stori dejanje iz členov 169 do 173 tega zakonika proti tuji državi, poglavarju tuje države ali diplomatskemu predstavniku tuje države v Republiki Sloveniji ali kdor javno sramoti zastavo, grb ali himno tuje države, se kaznuje z denarno kaznijo ali z zaporom do enega leta.
+Enako se kaznuje, kdor stori dejanje iz prejšnjega odstavka proti mednarodni organizaciji, ki jo priznava Republika Slovenija, ali proti njenemu predstavniku ali proti njenim simbolom.
+Kdor javno stori dejanje iz členov 169 do 171 tega zakonika proti slovenskemu narodu ali proti italijanski ali madžarski narodni skupnosti, ki živita v Republiki Sloveniji, se kaznuje z denarno kaznijo ali z zaporom do enega leta.
+Če je bil storilec kaznivega dejanja iz členov 169 do 173 tega zakonika izzvan z nedostojnim ali surovim ravnanjem oškodovanca ali se pred sodiščem opraviči oškodovancu, ali pred sodiščem prekliče tisto, kar je trdil ali raznašal, mu sme sodišče kazen odpustiti.
+Pregon zaradi kaznivih dejanj iz členov 169 do 173 tega zakonika se začne na zasebno tožbo.
+Če so dejanja iz členov 169 do 173 tega zakonika storjena proti državnemu organu ali proti uradni ali vojaški osebi v zvezi z opravljanjem njune službe v tem organu, se pregon začne na predlog.
+Pregon za kaznivo dejanje iz 175. člena tega zakonika se začne z dovoljenjem ministra za pravosodje.
+Če so dejanja iz členov 169 do 173 tega zakonika storjena proti pokojni osebi, se začne pregon na zasebno tožbo zakonca, osebe, s katero je pokojnik živel v zunajzakonski skupnosti, njegovih otrok ali posvojencev, staršev ali posvojiteljev, bratov ali sester.
+Pri obsodbi za kazniva dejanja iz členov 169 do 176 tega zakonika, storjena s tiskom, po radiu, televiziji ali z drugim sredstvom javnega obveščanja, sme sodišče na oškodovančevo zahtevo odločiti, da se sodba na stroške obsojenca objavi na isti način, kot je bilo dejanje storjeno, v celoti ali v izvlečku.
+Kdor prisili osebo drugega ali istega spola k spolnemu občevanju tako, da uporabi silo ali zagrozi z neposrednim napadom na življenje ali telo, se kaznuje z zaporom od enega do desetih let.
+Če je dejanje iz prejšnjega odstavka storjeno na grozovit ali na posebno poniževalen način ali če je dejanje storilo več oseb zaporedoma, ali nad obsojenci, ki prestajajo kazen zapora v zaprtih ali polodprtih zavodih za prestajanje kazni zapora, se storilec kaznuje z zaporom najmanj treh let.
+Kdor prisili osebo drugega ali istega spola k spolnemu občevanju tako, da ji zagrozi, da bo o njej ali njenih bližnjih odkril, kar bi škodovalo njeni ali njihovi časti ali dobremu imenu, ali da bo njej ali njenim bližnjim povzročil veliko premoženjsko škodo, se kaznuje z zaporom od šestih mesecev do petih let.
+Če sta bili dejanji iz prvega ali tretjega odstavka tega člena storjeni proti osebi, s katero storilec živi v zakonski ali zunajzakonski skupnosti, se pregon začne na predlog.
+Kdor uporabi silo ali zagrozi osebi drugega ali istega spola z neposrednim napadom na življenje ali telo in jo tako prisili, da stori ali trpi kakšno spolno dejanje, ki ni obseženo v prejšnjem členu, se kaznuje z zaporom od šestih mesecev do desetih let.
+Če je dejanje iz prejšnjega odstavka storjeno na grozovit ali na posebno poniževalen način, ali če je dejanje storilo več oseb zaporedoma, se storilec kaznuje z zaporom najmanj treh let.
+Kdor osebo drugega ali istega spola prisili, da stori ali trpi kakšno spolno dejanje iz prvega odstavka tega člena tako, da ji zagrozi, da bo o njej ali njenih bližnjih odkril, kar bi škodovalo njeni ali njihovi časti ali dobremu imenu, ali da bo njej ali njenim bližnjim povzročil veliko premoženjsko škodo, se kaznuje z zaporom do petih let.
+Če sta bili dejanji iz prvega ali tretjega odstavka tega člena storjeni proti osebi, s katero storilec ali storilka živi v zakonski ali zunajzakonski skupnosti, se pregon začne na predlog.
+Kdor spolno občuje ali stori kakšno drugo spolno dejanje z osebo drugega ali istega spola, tako da zlorabi njeno duševno bolezen, začasno duševno motnjo, hujšo duševno zaostalost, slabost ali kakšno drugačno stanje, zaradi katerega se ne more upirati, se kaznuje z zaporom od enega do osmih let.
+Kdor v okoliščinah iz prejšnjega odstavka kako drugače prizadene spolno nedotakljivost slabotne osebe, se kaznuje z zaporom do petih let.
+Kdor spolno občuje ali stori kakšno drugo spolno dejanje z osebo drugega ali istega spola, ki še ni stara petnajst let, pri čemer obstaja očitno nesorazmerje med zrelostjo storilca in žrtve, se kaznuje z zaporom od enega do osmih let.
+Kdor stori dejanje iz prejšnjega odstavka z osebo, ki še ni stara deset let ali s slabotno osebo, ki še ni stara petnajst let ali tako, da uporabi silo ali zagrozi z neposrednim napadom na življenje ali telo, se kaznuje z zaporom najmanj treh let.
+Učitelj, vzgojitelj, skrbnik, posvojitelj, roditelj, duhovnik, zdravnik ali druga oseba, ki z zlorabo svojega položaja spolno občuje ali stori kakšno drugo spolno dejanje z osebo, ki še ni stara petnajst let in mu je zaupana v učenje, vzgojo, varstvo in oskrbo, se kaznuje z zaporom od enega do desetih let.
+Kdor v okoliščinah iz prvega, drugega in tretjega odstavka tega člena kako drugače prizadene spolno nedotakljivost osebe, ki še ni stara petnajst let, se kaznuje z zaporom do petih let.
+Kdor zlorabi svoj položaj in tako pripravi osebo drugega ali istega spola, ki mu je podrejena ali od njega odvisna, k spolnemu občevanju, ali da stori oziroma trpi kakšno drugo spolno dejanje, se kaznuje z zaporom do petih let.
+Učitelj, vzgojitelj, skrbnik, posvojitelj, roditelj ali druga oseba, ki z zlorabo svojega položaja spolno občuje ali stori kakšno drugo spolno dejanje z osebo, staro nad petnajst let, ki mu je zaupana v učenje, vzgojo, varstvo in oskrbo, se kaznuje z zaporom od enega do osmih let.
+Kdor zaradi izkoriščanja sodeluje pri prostituciji druge osebe, ali kdor s silo, grožnjo ali s preslepitvijo navede, pridobi ali spodbudi drugo osebo k prostituciji, se kaznuje z zaporom od treh mesecev do petih let.
+Če je dejanje iz prejšnjega odstavka storjeno proti mladoletni osebi, ali proti več osebam, ali v okviru hudodelske združbe, se storilec kaznuje z zaporom od enega do desetih let.
+Kdor osebi, mlajši od štirinajst let, proda, prikaže ali z javnim razstavljanjem ali kako drugače omogoči, da so ji dostopni spisi, slike, avdiovizualni ali drugi predmeti pornografske vsebine, ali ji prikaže pornografsko predstavo, se kaznuje z denarno kaznijo ali zaporom do dveh let.
+Kdor zlorabi mladoletno osebo za izdelavo slik, avdiovizualnih ali drugih predmetov pornografske vsebine, ali jo uporabi za pornografsko predstavo, se kaznuje za zaporom od šestih mesecev do petih let.
+Enako se kaznuje kdor proizvede, razširi, proda, uvozi, izvozi ali drugače ponudi pornografsko gradivo, ki prikazuje mladoletne osebe, ali kdor poseduje tako gradivo z namenom proizvodnje, razširjanja, prodaje, uvoza, izvoza ali drugačnega ponujanja.
+Če je bilo dejanje iz drugega ali tretjega odstavka tega člena storjeno v hudodelski združbi za izvrševanje takih kaznivih dejanj, se storilec kaznuje z zaporom od enega do osmih let.
+Pornografski material iz drugega, tretjega in četrtega odstavka tega člena se vzame ali njegova uporaba ustrezno onemogoči.
+Kdor se ne ravna po predpisih ali odredbah, s katerimi pristojni organ odredi pregled, razkuženje, izločitev bolnikov ali kakšne druge ukrepe za zatiranje ali preprečevanje nalezljivih bolezni pri ljudeh in s tem povzroči, da se nalezljiva bolezen razširi, se kaznuje z denarno kaznijo ali z zaporom do enega leta.
+Enako se kaznuje, kdor se ne ravna po predpisih ali odredbah, s katerimi pristojni organi določijo ukrepe za zatiranje ali preprečevanje kužnih bolezni pri živalih, ki se lahko prenesejo na ljudi in s tem povzroči, da se kužna bolezen prenese na ljudi.
